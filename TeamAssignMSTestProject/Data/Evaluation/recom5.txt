@@ -1,0 +1,2074 @@
+
+for bug 389351 .....................................................................Srikanth Sankaran Recommendation  Score: 39287.491836130604
+Markus Keller Recommendation  Score: 17146.029626583466
+Dani Megert Recommendation  Score: 15545.944018579028
+Ayushman Jain Recommendation  Score: 13877.017841203173
+Olivier Thomann Recommendation  Score: 13198.846245221039
+Stephan Herrmann Recommendation  Score: 9682.907204251887
+Satyam Kandula Recommendation  Score: 8515.513111430955
+Deepak Azad Recommendation  Score: 8073.1975786305575
+Frederic Fusier Recommendation  Score: 4044.3427857826387
+Raksha Vasisht Recommendation  Score: 2513.5600220416104
+Kent Johnson Recommendation  Score: 1238.8050301383207
+David Audel Recommendation  Score: 843.8123714659823
+Tomasz Zarna Recommendation  Score: 807.297682290165
+Andrey Loskutov Recommendation  Score: 718.8385500216414
+Curtis Windatt Recommendation  Score: 678.9916232140289
+Noopur Gupta Recommendation  Score: 448.23343083736137
+Francis Upton IV Recommendation  Score: 433.14887028582524
+Rajesh Recommendation  Score: 430.814622956076
+Darin Wright Recommendation  Score: 430.603463350708
+Kim Moir Recommendation  Score: 297.4484147005049
+Luke Hutchison Recommendation  Score: 40.36558914231867
+Chris Simmons Recommendation  Score: 28.442856633766457
+Mittu Recommendation  Score: 27.278301886804226
+Xiang Qinxian Recommendation  Score: 17.302895521294488
+Russ Tennant Recommendation  Score: 14.871983743783169
+Sachiko Suzuki Recommendation  Score: 5.161144137003341
+Channing Walton Recommendation  Score: 3.7398622800305423
+Sergio Fiorentini Recommendation  Score: 1.9372246696034658
+
+top n is: 1000
+Preccission is: 0.0
+Recall is : 0.0
+GT is is : 2
+
+for bug 385237 .....................................................................Srikanth Sankaran Recommendation  Score: 69189.04478577197
+Deepak Azad Recommendation  Score: 31450.53573218975
+Stephan Herrmann Recommendation  Score: 26886.81711751283
+Dani Megert Recommendation  Score: 23860.149169422006
+Tomasz Zarna Recommendation  Score: 23315.03430733085
+Markus Keller Recommendation  Score: 22854.241186355805
+Ayushman Jain Recommendation  Score: 22572.086571159125
+Olivier Thomann Recommendation  Score: 14626.138426020327
+Satyam Kandula Recommendation  Score: 10297.293133945483
+Frederic Fusier Recommendation  Score: 4308.133564176618
+Raksha Vasisht Recommendation  Score: 2816.5431713710923
+Curtis Windatt Recommendation  Score: 2360.0636909905147
+Kent Johnson Recommendation  Score: 1301.6629628307353
+David Audel Recommendation  Score: 884.4506262713531
+Rajesh Recommendation  Score: 472.7388257395995
+Darin Wright Recommendation  Score: 458.77776924125294
+Andrey Loskutov Recommendation  Score: 391.32661583222773
+Noopur Gupta Recommendation  Score: 369.74945862263866
+Kim Moir Recommendation  Score: 329.78611226542546
+Francis Upton IV Recommendation  Score: 197.4049748947275
+Luke Hutchison Recommendation  Score: 43.40989245878477
+Chris Simmons Recommendation  Score: 35.48489303657805
+Mittu Recommendation  Score: 29.963730569955636
+Xiang Qinxian Recommendation  Score: 18.285994913620947
+Russ Tennant Recommendation  Score: 15.635993494602305
+Sachiko Suzuki Recommendation  Score: 5.400149327107342
+Channing Walton Recommendation  Score: 3.9103999999997003
+Sergio Fiorentini Recommendation  Score: 2.066980023501805
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 0.25
+GT is is : 4
+
+for bug 368658 .....................................................................Srikanth Sankaran Recommendation  Score: 58367.3390717674
+Ayushman Jain Recommendation  Score: 56463.07602055925
+Dani Megert Recommendation  Score: 56043.22322988459
+Satyam Kandula Recommendation  Score: 48668.44975647561
+Markus Keller Recommendation  Score: 43706.27104156954
+Deepak Azad Recommendation  Score: 40643.29566382933
+Stephan Herrmann Recommendation  Score: 34315.881486952036
+Olivier Thomann Recommendation  Score: 26380.288664612508
+Raksha Vasisht Recommendation  Score: 5518.403884540609
+Frederic Fusier Recommendation  Score: 5479.398377262343
+Kent Johnson Recommendation  Score: 1555.3064078365915
+David Audel Recommendation  Score: 1046.0125491260408
+Curtis Windatt Recommendation  Score: 1004.9815253027831
+Darin Wright Recommendation  Score: 814.7516586650827
+Andrey Loskutov Recommendation  Score: 716.1250716308294
+Rajesh Recommendation  Score: 689.1544300802645
+Kim Moir Recommendation  Score: 605.4408001620254
+Tomasz Zarna Recommendation  Score: 547.5491032347485
+Noopur Gupta Recommendation  Score: 251.39450532062895
+Francis Upton IV Recommendation  Score: 135.72352783825784
+Luke Hutchison Recommendation  Score: 57.093119161251366
+Mittu Recommendation  Score: 43.81060606060727
+Xiang Qinxian Recommendation  Score: 22.363861934044827
+Chris Simmons Recommendation  Score: 20.887935274728882
+Russ Tennant Recommendation  Score: 18.724236069853934
+Sachiko Suzuki Recommendation  Score: 6.337183956180237
+Channing Walton Recommendation  Score: 4.581068416119986
+Sergio Fiorentini Recommendation  Score: 2.6332335329341072
+
+top n is: 4
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 380190 .....................................................................Dani Megert Recommendation  Score: 58769.33722132914
+Ayushman Jain Recommendation  Score: 43210.18436193085
+Markus Keller Recommendation  Score: 36046.61632798593
+Srikanth Sankaran Recommendation  Score: 27735.585072290894
+Deepak Azad Recommendation  Score: 21654.000943348754
+Stephan Herrmann Recommendation  Score: 18480.770488007896
+Satyam Kandula Recommendation  Score: 17794.496623365452
+Olivier Thomann Recommendation  Score: 17703.31019538672
+Frederic Fusier Recommendation  Score: 4605.488982484679
+Raksha Vasisht Recommendation  Score: 3215.3689275156826
+Kent Johnson Recommendation  Score: 1369.9707648077447
+David Audel Recommendation  Score: 928.3840511767155
+Tomasz Zarna Recommendation  Score: 855.3998647474469
+Curtis Windatt Recommendation  Score: 642.5262775583935
+Rajesh Recommendation  Score: 522.8534936448189
+Darin Wright Recommendation  Score: 491.0344751222233
+Kim Moir Recommendation  Score: 371.9696444610146
+Chris Simmons Recommendation  Score: 369.79986534679034
+Andrey Loskutov Recommendation  Score: 349.01312368721506
+Noopur Gupta Recommendation  Score: 320.28841755219673
+Francis Upton IV Recommendation  Score: 156.30876170692744
+Luke Hutchison Recommendation  Score: 46.833234400727676
+Mittu Recommendation  Score: 33.17208413003266
+Xiang Qinxian Recommendation  Score: 19.367676127857987
+Russ Tennant Recommendation  Score: 16.467108167768288
+Sachiko Suzuki Recommendation  Score: 5.657546181830309
+Channing Walton Recommendation  Score: 4.093802345058823
+Sergio Fiorentini Recommendation  Score: 2.212578616352238
+
+top n is: 1
+Preccission is: 0.3
+Recall is : 0.1875
+GT is is : 16
+
+for bug 380194 .....................................................................Dani Megert Recommendation  Score: 58769.33722132914
+Ayushman Jain Recommendation  Score: 43210.18436193085
+Markus Keller Recommendation  Score: 36046.61632798593
+Srikanth Sankaran Recommendation  Score: 27735.47358816033
+Deepak Azad Recommendation  Score: 21653.86293262862
+Stephan Herrmann Recommendation  Score: 18480.325159093143
+Satyam Kandula Recommendation  Score: 17794.47419777183
+Olivier Thomann Recommendation  Score: 17702.757920345586
+Frederic Fusier Recommendation  Score: 4605.488982484679
+Raksha Vasisht Recommendation  Score: 3215.3689275156826
+Kent Johnson Recommendation  Score: 1369.9707648077447
+David Audel Recommendation  Score: 928.3840511767155
+Tomasz Zarna Recommendation  Score: 855.3998647474469
+Curtis Windatt Recommendation  Score: 642.5262775583935
+Rajesh Recommendation  Score: 522.8534936448189
+Darin Wright Recommendation  Score: 491.0336488797779
+Kim Moir Recommendation  Score: 371.9696444610146
+Chris Simmons Recommendation  Score: 369.79986534679034
+Andrey Loskutov Recommendation  Score: 349.01312368721506
+Noopur Gupta Recommendation  Score: 320.28841755219673
+Francis Upton IV Recommendation  Score: 156.30876170692744
+Luke Hutchison Recommendation  Score: 46.833234400727676
+Mittu Recommendation  Score: 33.17208413003266
+Xiang Qinxian Recommendation  Score: 19.367676127857987
+Russ Tennant Recommendation  Score: 16.467108167768288
+Sachiko Suzuki Recommendation  Score: 5.657546181830309
+Channing Walton Recommendation  Score: 4.093802345058823
+Sergio Fiorentini Recommendation  Score: 2.212578616352238
+
+top n is: 1
+Preccission is: 0.5
+Recall is : 1.0
+GT is is : 5
+
+for bug 381121 .....................................................................Markus Keller Recommendation  Score: 29601.342363821866
+Ayushman Jain Recommendation  Score: 29400.717762099117
+Dani Megert Recommendation  Score: 26556.221017205564
+Srikanth Sankaran Recommendation  Score: 25614.441170873008
+Deepak Azad Recommendation  Score: 17886.586981000302
+Olivier Thomann Recommendation  Score: 16342.997169546676
+Satyam Kandula Recommendation  Score: 14693.312070432223
+Stephan Herrmann Recommendation  Score: 10773.676785987976
+Frederic Fusier Recommendation  Score: 4554.755875058695
+Raksha Vasisht Recommendation  Score: 3142.036456065583
+Kent Johnson Recommendation  Score: 1358.5084859087942
+Tomasz Zarna Recommendation  Score: 984.2547945693636
+David Audel Recommendation  Score: 921.0307950136287
+Curtis Windatt Recommendation  Score: 636.6200840956723
+Rajesh Recommendation  Score: 514.0838672172263
+Darin Wright Recommendation  Score: 485.45971429976976
+Kim Moir Recommendation  Score: 364.2098972079752
+Andrey Loskutov Recommendation  Score: 350.02673898796803
+Noopur Gupta Recommendation  Score: 327.0898427686158
+Chris Simmons Recommendation  Score: 227.42794098860122
+Francis Upton IV Recommendation  Score: 160.26622871525302
+Luke Hutchison Recommendation  Score: 46.25270232756677
+Mittu Recommendation  Score: 32.61090225564603
+Xiang Qinxian Recommendation  Score: 19.18524107684903
+Russ Tennant Recommendation  Score: 16.327627748928904
+Sachiko Suzuki Recommendation  Score: 5.614536509271901
+Channing Walton Recommendation  Score: 4.063175394846428
+Sergio Fiorentini Recommendation  Score: 2.1878109452736654
+
+top n is: 4
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 381345 .....................................................................Ayushman Jain Recommendation  Score: 26672.82306653044
+Markus Keller Recommendation  Score: 26330.986067327143
+Srikanth Sankaran Recommendation  Score: 25702.72735859101
+Dani Megert Recommendation  Score: 25037.875604016543
+Olivier Thomann Recommendation  Score: 16283.591932794034
+Deepak Azad Recommendation  Score: 15349.271140928835
+Satyam Kandula Recommendation  Score: 14707.23785896752
+Stephan Herrmann Recommendation  Score: 10627.167523323154
+Frederic Fusier Recommendation  Score: 4547.586882657256
+Raksha Vasisht Recommendation  Score: 3128.800303131935
+Kent Johnson Recommendation  Score: 1357.24679766633
+Tomasz Zarna Recommendation  Score: 1001.8609387926163
+David Audel Recommendation  Score: 919.9802700898069
+Curtis Windatt Recommendation  Score: 636.1828702595204
+Rajesh Recommendation  Score: 512.7522600668474
+Darin Wright Recommendation  Score: 484.8149630490932
+Kim Moir Recommendation  Score: 363.3610514421439
+Andrey Loskutov Recommendation  Score: 351.25087064105156
+Noopur Gupta Recommendation  Score: 328.2191980172843
+Chris Simmons Recommendation  Score: 166.35582885003146
+Francis Upton IV Recommendation  Score: 160.71014715834647
+Luke Hutchison Recommendation  Score: 46.139590895532294
+Mittu Recommendation  Score: 32.54971857410126
+Xiang Qinxian Recommendation  Score: 19.15914349277494
+Russ Tennant Recommendation  Score: 16.31227564499321
+Sachiko Suzuki Recommendation  Score: 5.605067461851052
+Channing Walton Recommendation  Score: 4.059800664451414
+Sergio Fiorentini Recommendation  Score: 2.185093167701868
+
+top n is: 3
+Preccission is: 0.3
+Recall is : 0.75
+GT is is : 4
+
+for bug 381358 .....................................................................Ayushman Jain Recommendation  Score: 26537.06063815492
+Markus Keller Recommendation  Score: 26332.735637914346
+Srikanth Sankaran Recommendation  Score: 25668.59233349214
+Dani Megert Recommendation  Score: 24998.549125259815
+Olivier Thomann Recommendation  Score: 16282.933189329997
+Deepak Azad Recommendation  Score: 15338.319673015414
+Satyam Kandula Recommendation  Score: 14700.565882642182
+Stephan Herrmann Recommendation  Score: 10627.746696008759
+Frederic Fusier Recommendation  Score: 4546.815384804386
+Raksha Vasisht Recommendation  Score: 3127.9646448395547
+Kent Johnson Recommendation  Score: 1357.24679766633
+Tomasz Zarna Recommendation  Score: 1010.7214586135166
+David Audel Recommendation  Score: 919.866433351428
+Curtis Windatt Recommendation  Score: 636.1828702595204
+Rajesh Recommendation  Score: 512.6602460383538
+Darin Wright Recommendation  Score: 484.8149630490932
+Kim Moir Recommendation  Score: 363.3591222186752
+Andrey Loskutov Recommendation  Score: 351.11760058165873
+Noopur Gupta Recommendation  Score: 328.595470654477
+Chris Simmons Recommendation  Score: 166.35582885003146
+Francis Upton IV Recommendation  Score: 160.71014715834647
+Luke Hutchison Recommendation  Score: 46.139590895532294
+Mittu Recommendation  Score: 32.54971857410126
+Xiang Qinxian Recommendation  Score: 19.15333333333652
+Russ Tennant Recommendation  Score: 16.31227564499321
+Sachiko Suzuki Recommendation  Score: 5.605067461851052
+Channing Walton Recommendation  Score: 4.059800664451414
+Sergio Fiorentini Recommendation  Score: 2.185093167701868
+
+top n is: 1
+Preccission is: 0.4
+Recall is : 1.0
+GT is is : 4
+
+for bug 382701 .....................................................................Srikanth Sankaran Recommendation  Score: 40448.49815345665
+Ayushman Jain Recommendation  Score: 36098.20584685432
+Markus Keller Recommendation  Score: 33237.95934162241
+Dani Megert Recommendation  Score: 23286.676508899174
+Olivier Thomann Recommendation  Score: 15669.605583770854
+Satyam Kandula Recommendation  Score: 12489.076032510075
+Deepak Azad Recommendation  Score: 11526.74525745952
+Stephan Herrmann Recommendation  Score: 9975.44130370863
+Frederic Fusier Recommendation  Score: 4472.773731484248
+Raksha Vasisht Recommendation  Score: 3027.2507274007794
+Tomasz Zarna Recommendation  Score: 1379.5301170870953
+Kent Johnson Recommendation  Score: 1339.8274654352438
+David Audel Recommendation  Score: 909.0312700250263
+Curtis Windatt Recommendation  Score: 636.9914569019651
+Rajesh Recommendation  Score: 499.99892507040096
+Darin Wright Recommendation  Score: 476.4890114819883
+Andrey Loskutov Recommendation  Score: 355.85075371073395
+Kim Moir Recommendation  Score: 352.1821904789971
+Noopur Gupta Recommendation  Score: 339.42068207305476
+Francis Upton IV Recommendation  Score: 168.47326016710625
+Chris Simmons Recommendation  Score: 67.39936737980842
+Luke Hutchison Recommendation  Score: 45.254011346199995
+Mittu Recommendation  Score: 31.716636197451876
+Xiang Qinxian Recommendation  Score: 18.88288338193029
+Russ Tennant Recommendation  Score: 16.100338158509878
+Sachiko Suzuki Recommendation  Score: 5.543082349553262
+Channing Walton Recommendation  Score: 4.013136288998721
+Sergio Fiorentini Recommendation  Score: 2.1477411477411406
+
+top n is: 1
+Preccission is: 0.3
+Recall is : 0.75
+GT is is : 4
+
+for bug 382702 .....................................................................Srikanth Sankaran Recommendation  Score: 40448.46815197559
+Ayushman Jain Recommendation  Score: 36097.59844629671
+Markus Keller Recommendation  Score: 33237.95934162241
+Dani Megert Recommendation  Score: 23286.067088198008
+Olivier Thomann Recommendation  Score: 15669.605583770854
+Satyam Kandula Recommendation  Score: 12489.076032510075
+Deepak Azad Recommendation  Score: 11526.636275753983
+Stephan Herrmann Recommendation  Score: 9976.3828651851
+Frederic Fusier Recommendation  Score: 4472.773731484248
+Raksha Vasisht Recommendation  Score: 3026.9039823784656
+Tomasz Zarna Recommendation  Score: 1379.5301170870953
+Kent Johnson Recommendation  Score: 1339.8274654352438
+David Audel Recommendation  Score: 909.0312700250263
+Curtis Windatt Recommendation  Score: 636.9914569019651
+Rajesh Recommendation  Score: 499.99892507040096
+Darin Wright Recommendation  Score: 476.4890114819883
+Andrey Loskutov Recommendation  Score: 355.85075371073395
+Kim Moir Recommendation  Score: 352.1821904789971
+Noopur Gupta Recommendation  Score: 339.42068207305476
+Francis Upton IV Recommendation  Score: 168.47326016710625
+Chris Simmons Recommendation  Score: 67.39936737980842
+Luke Hutchison Recommendation  Score: 45.254011346199995
+Mittu Recommendation  Score: 31.716636197451876
+Xiang Qinxian Recommendation  Score: 18.88288338193029
+Russ Tennant Recommendation  Score: 16.100338158509878
+Sachiko Suzuki Recommendation  Score: 5.543082349553262
+Channing Walton Recommendation  Score: 4.013136288998721
+Sergio Fiorentini Recommendation  Score: 2.1477411477411406
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 0.6666666666666666
+GT is is : 3
+
+for bug 383015 .....................................................................Srikanth Sankaran Recommendation  Score: 32129.13240039774
+Ayushman Jain Recommendation  Score: 24761.369332406528
+Markus Keller Recommendation  Score: 24641.279229194104
+Dani Megert Recommendation  Score: 20489.43381115063
+Olivier Thomann Recommendation  Score: 15495.485634585706
+Satyam Kandula Recommendation  Score: 11937.973171627968
+Deepak Azad Recommendation  Score: 11167.743083528603
+Stephan Herrmann Recommendation  Score: 10060.377292128975
+Frederic Fusier Recommendation  Score: 4446.574149424703
+Raksha Vasisht Recommendation  Score: 2993.3335712687854
+Tomasz Zarna Recommendation  Score: 1620.9115388778614
+Kent Johnson Recommendation  Score: 1334.1114542168314
+David Audel Recommendation  Score: 905.1007235031078
+Curtis Windatt Recommendation  Score: 640.6965566924723
+Rajesh Recommendation  Score: 495.8243555815047
+Darin Wright Recommendation  Score: 473.7434371811788
+Andrey Loskutov Recommendation  Score: 359.2052238472233
+Kim Moir Recommendation  Score: 348.8119675809937
+Noopur Gupta Recommendation  Score: 343.61691984790633
+Francis Upton IV Recommendation  Score: 171.83372380552987
+Chris Simmons Recommendation  Score: 56.8332137345813
+Luke Hutchison Recommendation  Score: 45.00724226944979
+Mittu Recommendation  Score: 31.429347826085234
+Xiang Qinxian Recommendation  Score: 18.791942083725207
+Russ Tennant Recommendation  Score: 16.025974702042554
+Sachiko Suzuki Recommendation  Score: 5.521261847249874
+Channing Walton Recommendation  Score: 3.999999999999624
+Sergio Fiorentini Recommendation  Score: 2.134708737864048
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 383085 .....................................................................Srikanth Sankaran Recommendation  Score: 32344.06212624077
+Markus Keller Recommendation  Score: 24579.465090219543
+Ayushman Jain Recommendation  Score: 23987.697751468226
+Dani Megert Recommendation  Score: 20543.39315169248
+Olivier Thomann Recommendation  Score: 15485.507452959033
+Satyam Kandula Recommendation  Score: 11905.695281064436
+Deepak Azad Recommendation  Score: 11121.215256593876
+Stephan Herrmann Recommendation  Score: 10145.55909417812
+Frederic Fusier Recommendation  Score: 4444.5420016500975
+Raksha Vasisht Recommendation  Score: 2987.6824145213977
+Tomasz Zarna Recommendation  Score: 1620.8550297008335
+Kent Johnson Recommendation  Score: 1333.7147533075267
+David Audel Recommendation  Score: 904.837188278063
+Curtis Windatt Recommendation  Score: 642.2553524102558
+Rajesh Recommendation  Score: 495.2504466101188
+Darin Wright Recommendation  Score: 473.6025194887807
+Andrey Loskutov Recommendation  Score: 360.4366916191842
+Kim Moir Recommendation  Score: 348.40643972454023
+Noopur Gupta Recommendation  Score: 344.08016267228714
+Francis Upton IV Recommendation  Score: 171.7729050058332
+Chris Simmons Recommendation  Score: 55.183130604969456
+Luke Hutchison Recommendation  Score: 44.945972895118196
+Mittu Recommendation  Score: 31.429347826085234
+Xiang Qinxian Recommendation  Score: 18.786149342256337
+Russ Tennant Recommendation  Score: 16.025974702042554
+Sachiko Suzuki Recommendation  Score: 5.516679400779534
+Channing Walton Recommendation  Score: 3.996729354047312
+Sergio Fiorentini Recommendation  Score: 2.134708737864048
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 383378 .....................................................................Srikanth Sankaran Recommendation  Score: 40291.78623649442
+Markus Keller Recommendation  Score: 36776.80262809858
+Ayushman Jain Recommendation  Score: 25213.740810981388
+Dani Megert Recommendation  Score: 25159.207678147624
+Olivier Thomann Recommendation  Score: 15319.822785285374
+Satyam Kandula Recommendation  Score: 11522.030362235057
+Deepak Azad Recommendation  Score: 11073.127456005534
+Stephan Herrmann Recommendation  Score: 10676.723765197517
+Frederic Fusier Recommendation  Score: 4420.210930505095
+Raksha Vasisht Recommendation  Score: 2958.522578429115
+Tomasz Zarna Recommendation  Score: 1988.547188074619
+Kent Johnson Recommendation  Score: 1327.9769755409332
+David Audel Recommendation  Score: 901.2040762335722
+Curtis Windatt Recommendation  Score: 649.8120540887161
+Rajesh Recommendation  Score: 491.40369566370845
+Darin Wright Recommendation  Score: 470.89322103216915
+Andrey Loskutov Recommendation  Score: 363.15275665550644
+Noopur Gupta Recommendation  Score: 348.0927798071549
+Kim Moir Recommendation  Score: 345.1247816290435
+Francis Upton IV Recommendation  Score: 175.50168206760188
+Chris Simmons Recommendation  Score: 49.839848209148435
+Luke Hutchison Recommendation  Score: 44.702566087853484
+Mittu Recommendation  Score: 31.14721723519656
+Xiang Qinxian Recommendation  Score: 18.696136332163984
+Russ Tennant Recommendation  Score: 15.952295027074628
+Sachiko Suzuki Recommendation  Score: 5.498425429685039
+Channing Walton Recommendation  Score: 3.9837000814993733
+Sergio Fiorentini Recommendation  Score: 2.1218335343787778
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 383596 .....................................................................Srikanth Sankaran Recommendation  Score: 56106.094940069255
+Markus Keller Recommendation  Score: 40970.89367872861
+Ayushman Jain Recommendation  Score: 28796.857775573768
+Dani Megert Recommendation  Score: 24925.322515185417
+Olivier Thomann Recommendation  Score: 15243.78668919361
+Stephan Herrmann Recommendation  Score: 12091.776576581628
+Satyam Kandula Recommendation  Score: 11376.269574438607
+Deepak Azad Recommendation  Score: 11101.068465873583
+Frederic Fusier Recommendation  Score: 4409.483636523581
+Raksha Vasisht Recommendation  Score: 2944.644426232394
+Tomasz Zarna Recommendation  Score: 2195.6585373702173
+Kent Johnson Recommendation  Score: 1325.250587046336
+David Audel Recommendation  Score: 899.6548108837709
+Curtis Windatt Recommendation  Score: 659.0034719165942
+Rajesh Recommendation  Score: 489.47231565680687
+Darin Wright Recommendation  Score: 469.6373768790301
+Andrey Loskutov Recommendation  Score: 364.8255887203426
+Noopur Gupta Recommendation  Score: 349.92572029821616
+Kim Moir Recommendation  Score: 343.2952852542424
+Francis Upton IV Recommendation  Score: 177.0468050145676
+Chris Simmons Recommendation  Score: 47.66890371123131
+Luke Hutchison Recommendation  Score: 44.557196675272685
+Mittu Recommendation  Score: 31.035778175321564
+Xiang Qinxian Recommendation  Score: 18.658088332233543
+Russ Tennant Recommendation  Score: 15.923012507181497
+Sachiko Suzuki Recommendation  Score: 5.489343670036539
+Channing Walton Recommendation  Score: 3.973983739837688
+Sergio Fiorentini Recommendation  Score: 2.1167268351384387
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 383598 .....................................................................Srikanth Sankaran Recommendation  Score: 56105.64854187506
+Markus Keller Recommendation  Score: 40970.89367872861
+Ayushman Jain Recommendation  Score: 28796.857775573768
+Dani Megert Recommendation  Score: 24925.322515185417
+Olivier Thomann Recommendation  Score: 15243.78668919361
+Stephan Herrmann Recommendation  Score: 12091.776576581628
+Satyam Kandula Recommendation  Score: 11376.05691253061
+Deepak Azad Recommendation  Score: 11101.042861217073
+Frederic Fusier Recommendation  Score: 4409.483636523581
+Raksha Vasisht Recommendation  Score: 2944.644426232394
+Tomasz Zarna Recommendation  Score: 2195.6585373702173
+Kent Johnson Recommendation  Score: 1325.250587046336
+David Audel Recommendation  Score: 899.6548108837709
+Curtis Windatt Recommendation  Score: 659.0034719165942
+Rajesh Recommendation  Score: 489.47231565680687
+Darin Wright Recommendation  Score: 469.6373768790301
+Andrey Loskutov Recommendation  Score: 364.8255887203426
+Noopur Gupta Recommendation  Score: 349.92572029821616
+Kim Moir Recommendation  Score: 343.2952852542424
+Francis Upton IV Recommendation  Score: 177.0468050145676
+Chris Simmons Recommendation  Score: 47.66890371123131
+Luke Hutchison Recommendation  Score: 44.53913618068864
+Mittu Recommendation  Score: 31.035778175321564
+Xiang Qinxian Recommendation  Score: 18.658088332233543
+Russ Tennant Recommendation  Score: 15.923012507181497
+Sachiko Suzuki Recommendation  Score: 5.489343670036539
+Channing Walton Recommendation  Score: 3.973983739837688
+Sergio Fiorentini Recommendation  Score: 2.1167268351384387
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 383600 .....................................................................Srikanth Sankaran Recommendation  Score: 56104.32991491717
+Markus Keller Recommendation  Score: 40970.89367872861
+Ayushman Jain Recommendation  Score: 28796.857775573768
+Dani Megert Recommendation  Score: 24925.322515185417
+Olivier Thomann Recommendation  Score: 15243.700118861982
+Stephan Herrmann Recommendation  Score: 12091.776576581628
+Satyam Kandula Recommendation  Score: 11374.603909213478
+Deepak Azad Recommendation  Score: 11099.998136627937
+Frederic Fusier Recommendation  Score: 4409.483636523581
+Raksha Vasisht Recommendation  Score: 2944.644426232394
+Tomasz Zarna Recommendation  Score: 2195.6585373702173
+Kent Johnson Recommendation  Score: 1325.250587046336
+David Audel Recommendation  Score: 899.6548108837709
+Curtis Windatt Recommendation  Score: 659.0034719165942
+Rajesh Recommendation  Score: 489.4646730208244
+Darin Wright Recommendation  Score: 469.6373768790301
+Andrey Loskutov Recommendation  Score: 364.8255887203426
+Noopur Gupta Recommendation  Score: 349.92572029821616
+Kim Moir Recommendation  Score: 343.2952852542424
+Francis Upton IV Recommendation  Score: 177.0468050145676
+Chris Simmons Recommendation  Score: 47.66890371123131
+Luke Hutchison Recommendation  Score: 44.52174603148902
+Mittu Recommendation  Score: 31.035778175321564
+Xiang Qinxian Recommendation  Score: 18.658088332233543
+Russ Tennant Recommendation  Score: 15.923012507181497
+Sachiko Suzuki Recommendation  Score: 5.489343670036539
+Channing Walton Recommendation  Score: 3.973983739837688
+Sergio Fiorentini Recommendation  Score: 2.1167268351384387
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 383714 .....................................................................Srikanth Sankaran Recommendation  Score: 72668.25142531616
+Markus Keller Recommendation  Score: 38194.14912257232
+Ayushman Jain Recommendation  Score: 28728.659790776564
+Dani Megert Recommendation  Score: 23083.37847740294
+Olivier Thomann Recommendation  Score: 15210.318321426485
+Stephan Herrmann Recommendation  Score: 13508.431333571716
+Satyam Kandula Recommendation  Score: 11305.231144203739
+Deepak Azad Recommendation  Score: 11137.44946076191
+Frederic Fusier Recommendation  Score: 4404.292643260683
+Raksha Vasisht Recommendation  Score: 2937.864725608781
+Tomasz Zarna Recommendation  Score: 2318.5043160354276
+Kent Johnson Recommendation  Score: 1324.0502314619062
+David Audel Recommendation  Score: 898.8821772427191
+Curtis Windatt Recommendation  Score: 662.8629507077562
+Rajesh Recommendation  Score: 488.5720522186207
+Darin Wright Recommendation  Score: 469.07281906274267
+Andrey Loskutov Recommendation  Score: 365.774849599478
+Noopur Gupta Recommendation  Score: 350.85637253035645
+Kim Moir Recommendation  Score: 342.5810621185199
+Francis Upton IV Recommendation  Score: 177.84854026977763
+Chris Simmons Recommendation  Score: 46.685292715746456
+Luke Hutchison Recommendation  Score: 44.461799557547835
+Mittu Recommendation  Score: 30.980357142850487
+Xiang Qinxian Recommendation  Score: 18.633429491611647
+Russ Tennant Recommendation  Score: 15.908411524603503
+Sachiko Suzuki Recommendation  Score: 5.484814031377064
+Channing Walton Recommendation  Score: 3.970755483347236
+Sergio Fiorentini Recommendation  Score: 2.1141826923077387
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 383884 .....................................................................Srikanth Sankaran Recommendation  Score: 69956.07669223326
+Markus Keller Recommendation  Score: 34689.18890317683
+Ayushman Jain Recommendation  Score: 28750.974014034487
+Dani Megert Recommendation  Score: 19737.972529735915
+Stephan Herrmann Recommendation  Score: 17771.79415889331
+Olivier Thomann Recommendation  Score: 15177.203804361994
+Satyam Kandula Recommendation  Score: 11216.785740177527
+Deepak Azad Recommendation  Score: 11197.61725953973
+Frederic Fusier Recommendation  Score: 4397.372118222124
+Raksha Vasisht Recommendation  Score: 2926.198039390202
+Tomasz Zarna Recommendation  Score: 2457.5233665812048
+Kent Johnson Recommendation  Score: 1322.8520604936991
+David Audel Recommendation  Score: 897.8320282485344
+Curtis Windatt Recommendation  Score: 667.2655388614136
+Rajesh Recommendation  Score: 487.3880444490784
+Darin Wright Recommendation  Score: 468.5140213020132
+Andrey Loskutov Recommendation  Score: 368.35621910878956
+Noopur Gupta Recommendation  Score: 352.3275701665039
+Kim Moir Recommendation  Score: 341.87070709709434
+Francis Upton IV Recommendation  Score: 178.66492038873312
+Chris Simmons Recommendation  Score: 44.85797428885984
+Luke Hutchison Recommendation  Score: 44.40201540934008
+Mittu Recommendation  Score: 30.925133689827238
+Xiang Qinxian Recommendation  Score: 18.61451476215907
+Russ Tennant Recommendation  Score: 15.893837295185127
+Sachiko Suzuki Recommendation  Score: 5.475777143776451
+Channing Walton Recommendation  Score: 3.9675324675320955
+Sergio Fiorentini Recommendation  Score: 2.1116446578631676
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 384320 .....................................................................Srikanth Sankaran Recommendation  Score: 40648.47671107984
+Markus Keller Recommendation  Score: 26095.238662575346
+Ayushman Jain Recommendation  Score: 24131.517009520878
+Dani Megert Recommendation  Score: 18286.032437994872
+Olivier Thomann Recommendation  Score: 14984.450767452028
+Deepak Azad Recommendation  Score: 12126.361978217486
+Stephan Herrmann Recommendation  Score: 11793.209195978969
+Satyam Kandula Recommendation  Score: 10881.51115206349
+Frederic Fusier Recommendation  Score: 4368.316776298568
+Tomasz Zarna Recommendation  Score: 3942.322211418065
+Raksha Vasisht Recommendation  Score: 2891.7222988649814
+Kent Johnson Recommendation  Score: 1315.7085776689764
+David Audel Recommendation  Score: 893.5107374092354
+Curtis Windatt Recommendation  Score: 712.4881512306123
+Rajesh Recommendation  Score: 482.6209230774572
+Darin Wright Recommendation  Score: 465.19464487655034
+Andrey Loskutov Recommendation  Score: 373.41170789511125
+Noopur Gupta Recommendation  Score: 357.5157650290133
+Kim Moir Recommendation  Score: 337.68773552680983
+Francis Upton IV Recommendation  Score: 184.07388543960994
+Luke Hutchison Recommendation  Score: 44.046682508672056
+Chris Simmons Recommendation  Score: 41.22968160491566
+Mittu Recommendation  Score: 30.597883597889336
+Xiang Qinxian Recommendation  Score: 18.50183173283575
+Russ Tennant Recommendation  Score: 15.806949640269742
+Sachiko Suzuki Recommendation  Score: 5.453314674215696
+Channing Walton Recommendation  Score: 3.948303715670031
+Sergio Fiorentini Recommendation  Score: 2.096543504171733
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 384457 .....................................................................Srikanth Sankaran Recommendation  Score: 41781.470891365
+Ayushman Jain Recommendation  Score: 26481.71375903332
+Markus Keller Recommendation  Score: 25097.90743298438
+Dani Megert Recommendation  Score: 18085.053381042828
+Olivier Thomann Recommendation  Score: 14953.067918071418
+Deepak Azad Recommendation  Score: 12550.683930765452
+Stephan Herrmann Recommendation  Score: 11614.775580746524
+Satyam Kandula Recommendation  Score: 10806.329344943862
+Tomasz Zarna Recommendation  Score: 4409.376318616396
+Frederic Fusier Recommendation  Score: 4361.6245608072
+Raksha Vasisht Recommendation  Score: 2880.5207269018833
+Kent Johnson Recommendation  Score: 1314.5255324911027
+David Audel Recommendation  Score: 892.473113886964
+Curtis Windatt Recommendation  Score: 725.4017667747709
+Rajesh Recommendation  Score: 481.4456237817595
+Darin Wright Recommendation  Score: 464.64688465431817
+Andrey Loskutov Recommendation  Score: 376.48892839905693
+Noopur Gupta Recommendation  Score: 359.0013217216505
+Kim Moir Recommendation  Score: 337.0034324819131
+Francis Upton IV Recommendation  Score: 185.0266706034923
+Luke Hutchison Recommendation  Score: 43.988016289875624
+Chris Simmons Recommendation  Score: 39.98411806784759
+Mittu Recommendation  Score: 30.544014084496414
+Xiang Qinxian Recommendation  Score: 18.483184360029234
+Russ Tennant Recommendation  Score: 15.79256064109255
+Sachiko Suzuki Recommendation  Score: 5.444381203562843
+Channing Walton Recommendation  Score: 3.9451170298622973
+Sergio Fiorentini Recommendation  Score: 2.094047619047612
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 384750 .....................................................................Srikanth Sankaran Recommendation  Score: 47887.21697614849
+Ayushman Jain Recommendation  Score: 40975.53722308286
+Markus Keller Recommendation  Score: 33982.230930035395
+Deepak Azad Recommendation  Score: 20261.908964408147
+Dani Megert Recommendation  Score: 18235.690613981064
+Olivier Thomann Recommendation  Score: 14817.942541567463
+Tomasz Zarna Recommendation  Score: 12334.80690963083
+Stephan Herrmann Recommendation  Score: 11866.8282567039
+Satyam Kandula Recommendation  Score: 10575.17999773266
+Frederic Fusier Recommendation  Score: 4339.430246725141
+Raksha Vasisht Recommendation  Score: 2854.0997193365547
+Kent Johnson Recommendation  Score: 1309.342186524279
+David Audel Recommendation  Score: 889.0280586769493
+Curtis Windatt Recommendation  Score: 816.2793419917382
+Rajesh Recommendation  Score: 477.9401226366482
+Darin Wright Recommendation  Score: 462.1634609200752
+Andrey Loskutov Recommendation  Score: 381.6158205462324
+Noopur Gupta Recommendation  Score: 363.4977560956256
+Kim Moir Recommendation  Score: 334.0528915919389
+Francis Upton IV Recommendation  Score: 190.29783247569785
+Luke Hutchison Recommendation  Score: 43.75491634201915
+Chris Simmons Recommendation  Score: 37.94645716008088
+Mittu Recommendation  Score: 30.277486911005877
+Xiang Qinxian Recommendation  Score: 18.403633704148948
+Russ Tennant Recommendation  Score: 15.728226204173993
+Sachiko Suzuki Recommendation  Score: 5.426601784266134
+Channing Walton Recommendation  Score: 3.9324215607396176
+Sergio Fiorentini Recommendation  Score: 2.0816568047336794
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 385009 .....................................................................Srikanth Sankaran Recommendation  Score: 43879.76671057404
+Markus Keller Recommendation  Score: 33606.8348362229
+Ayushman Jain Recommendation  Score: 25751.255952853477
+Tomasz Zarna Recommendation  Score: 23314.962757111985
+Deepak Azad Recommendation  Score: 21406.61177389097
+Dani Megert Recommendation  Score: 18698.96390629514
+Olivier Thomann Recommendation  Score: 14739.995116514294
+Stephan Herrmann Recommendation  Score: 13556.095434827908
+Satyam Kandula Recommendation  Score: 10469.154640445178
+Frederic Fusier Recommendation  Score: 4327.825126888638
+Raksha Vasisht Recommendation  Score: 2839.425552666335
+Kent Johnson Recommendation  Score: 1306.303736167237
+Curtis Windatt Recommendation  Score: 1007.8192728524022
+David Audel Recommendation  Score: 887.4309722460296
+Rajesh Recommendation  Score: 475.8903498164453
+Darin Wright Recommendation  Score: 460.85500686718956
+Andrey Loskutov Recommendation  Score: 385.61220893317034
+Noopur Gupta Recommendation  Score: 365.7175604017678
+Kim Moir Recommendation  Score: 332.3117466348075
+Francis Upton IV Recommendation  Score: 192.50663129254644
+Luke Hutchison Recommendation  Score: 43.58171698589114
+Chris Simmons Recommendation  Score: 37.04850246946362
+Mittu Recommendation  Score: 30.172173913033493
+Xiang Qinxian Recommendation  Score: 18.353702745013734
+Russ Tennant Recommendation  Score: 15.692566511584914
+Sachiko Suzuki Recommendation  Score: 5.413343240208102
+Channing Walton Recommendation  Score: 3.922953451043015
+Sergio Fiorentini Recommendation  Score: 2.076741440377875
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 385041 .....................................................................Srikanth Sankaran Recommendation  Score: 43222.04619066118
+Markus Keller Recommendation  Score: 33635.18536749116
+Ayushman Jain Recommendation  Score: 25716.417717295357
+Tomasz Zarna Recommendation  Score: 23314.852766540367
+Deepak Azad Recommendation  Score: 21812.955127409354
+Dani Megert Recommendation  Score: 18680.548011540646
+Olivier Thomann Recommendation  Score: 14739.926743702516
+Stephan Herrmann Recommendation  Score: 13593.646641139656
+Satyam Kandula Recommendation  Score: 10455.802999131218
+Frederic Fusier Recommendation  Score: 4326.228488714966
+Raksha Vasisht Recommendation  Score: 2836.393092679224
+Kent Johnson Recommendation  Score: 1306.303736167237
+Curtis Windatt Recommendation  Score: 1007.8192728524022
+David Audel Recommendation  Score: 887.1778920435611
+Rajesh Recommendation  Score: 475.64453025235775
+Darin Wright Recommendation  Score: 460.85500686718956
+Andrey Loskutov Recommendation  Score: 386.66858214844416
+Noopur Gupta Recommendation  Score: 366.13927095110665
+Kim Moir Recommendation  Score: 332.3117466348075
+Francis Upton IV Recommendation  Score: 192.49158359021789
+Luke Hutchison Recommendation  Score: 43.58171698589114
+Chris Simmons Recommendation  Score: 36.58878453488113
+Mittu Recommendation  Score: 30.172173913033493
+Xiang Qinxian Recommendation  Score: 18.353702745013734
+Russ Tennant Recommendation  Score: 15.692566511584914
+Sachiko Suzuki Recommendation  Score: 5.413343240208102
+Channing Walton Recommendation  Score: 3.922953451043015
+Sergio Fiorentini Recommendation  Score: 2.076741440377875
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 385132 .....................................................................Srikanth Sankaran Recommendation  Score: 62497.553588757415
+Tomasz Zarna Recommendation  Score: 26204.507265092234
+Dani Megert Recommendation  Score: 23820.538902158318
+Markus Keller Recommendation  Score: 23620.967202288073
+Ayushman Jain Recommendation  Score: 22767.37058319748
+Deepak Azad Recommendation  Score: 21423.539756170616
+Stephan Herrmann Recommendation  Score: 18171.254397011628
+Olivier Thomann Recommendation  Score: 14654.118143087388
+Satyam Kandula Recommendation  Score: 10341.424825125954
+Frederic Fusier Recommendation  Score: 4313.0370189134155
+Raksha Vasisht Recommendation  Score: 2822.6066592942616
+Curtis Windatt Recommendation  Score: 2360.4908938389854
+Kent Johnson Recommendation  Score: 1302.8116789114924
+David Audel Recommendation  Score: 885.1986008287276
+Rajesh Recommendation  Score: 473.5482407930788
+Darin Wright Recommendation  Score: 459.2843685139841
+Andrey Loskutov Recommendation  Score: 389.5075263209202
+Noopur Gupta Recommendation  Score: 368.68787870015933
+Kim Moir Recommendation  Score: 330.42490408302217
+Francis Upton IV Recommendation  Score: 196.1286355891672
+Luke Hutchison Recommendation  Score: 43.46701556033841
+Chris Simmons Recommendation  Score: 35.84973225900198
+Mittu Recommendation  Score: 30.01557093425004
+Xiang Qinxian Recommendation  Score: 18.304245098808206
+Russ Tennant Recommendation  Score: 15.650098473259698
+Sachiko Suzuki Recommendation  Score: 5.404540146120315
+Channing Walton Recommendation  Score: 3.913530824660184
+Sergio Fiorentini Recommendation  Score: 2.069411764705921
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 385293 .....................................................................Srikanth Sankaran Recommendation  Score: 68983.94740376831
+Deepak Azad Recommendation  Score: 31349.033831829296
+Stephan Herrmann Recommendation  Score: 27982.919340900055
+Dani Megert Recommendation  Score: 23964.8800487541
+Tomasz Zarna Recommendation  Score: 23315.154106581813
+Markus Keller Recommendation  Score: 22530.19743296819
+Ayushman Jain Recommendation  Score: 22158.983541200047
+Olivier Thomann Recommendation  Score: 14621.976075952427
+Satyam Kandula Recommendation  Score: 10274.632022895545
+Frederic Fusier Recommendation  Score: 4305.9864635654685
+Raksha Vasisht Recommendation  Score: 2811.730754255469
+Curtis Windatt Recommendation  Score: 2359.920326030443
+Kent Johnson Recommendation  Score: 1301.6518274636219
+David Audel Recommendation  Score: 884.1230436723424
+Rajesh Recommendation  Score: 472.34325889593526
+Darin Wright Recommendation  Score: 458.72074381721717
+Andrey Loskutov Recommendation  Score: 393.479166145168
+Noopur Gupta Recommendation  Score: 370.75165826410847
+Kim Moir Recommendation  Score: 329.70360643045376
+Francis Upton IV Recommendation  Score: 197.35797846117543
+Luke Hutchison Recommendation  Score: 43.35292029138487
+Chris Simmons Recommendation  Score: 35.0918436975489
+Mittu Recommendation  Score: 29.963730569955636
+Xiang Qinxian Recommendation  Score: 18.275269721500223
+Russ Tennant Recommendation  Score: 15.635993494602305
+Sachiko Suzuki Recommendation  Score: 5.395765636893186
+Channing Walton Recommendation  Score: 3.9103999999997003
+Sergio Fiorentini Recommendation  Score: 2.066980023501805
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 385374 .....................................................................Srikanth Sankaran Recommendation  Score: 61777.55618075298
+Deepak Azad Recommendation  Score: 31190.056127099473
+Stephan Herrmann Recommendation  Score: 27938.149953997126
+Dani Megert Recommendation  Score: 24025.248682240664
+Ayushman Jain Recommendation  Score: 23416.986090001938
+Markus Keller Recommendation  Score: 22931.91436425168
+Tomasz Zarna Recommendation  Score: 21870.317528010128
+Olivier Thomann Recommendation  Score: 14593.630357987347
+Satyam Kandula Recommendation  Score: 10245.175560668937
+Frederic Fusier Recommendation  Score: 4303.09059763382
+Raksha Vasisht Recommendation  Score: 2809.0545644651734
+Curtis Windatt Recommendation  Score: 2359.3699195147065
+Kent Johnson Recommendation  Score: 1300.4940504715994
+David Audel Recommendation  Score: 883.691555456332
+Rajesh Recommendation  Score: 471.83094409458033
+Darin Wright Recommendation  Score: 458.1907845985903
+Andrey Loskutov Recommendation  Score: 394.25983533638646
+Noopur Gupta Recommendation  Score: 370.9919295084843
+Kim Moir Recommendation  Score: 329.0618801826856
+Francis Upton IV Recommendation  Score: 198.6675873594148
+Luke Hutchison Recommendation  Score: 43.29609845702488
+Chris Simmons Recommendation  Score: 35.13586282602367
+Mittu Recommendation  Score: 29.912068965523016
+Xiang Qinxian Recommendation  Score: 18.262326173672545
+Russ Tennant Recommendation  Score: 15.621913918122383
+Sachiko Suzuki Recommendation  Score: 5.394622568087813
+Channing Walton Recommendation  Score: 3.907274180655177
+Sergio Fiorentini Recommendation  Score: 2.0645539906102917
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 388936 .....................................................................Srikanth Sankaran Recommendation  Score: 26906.719311579283
+Markus Keller Recommendation  Score: 16987.343434356746
+Dani Megert Recommendation  Score: 16035.482822421613
+Ayushman Jain Recommendation  Score: 14181.837231368676
+Olivier Thomann Recommendation  Score: 13329.614107312687
+Satyam Kandula Recommendation  Score: 8644.649145977706
+Stephan Herrmann Recommendation  Score: 8564.382654070629
+Deepak Azad Recommendation  Score: 8146.836084956943
+Frederic Fusier Recommendation  Score: 4068.5635571078938
+Raksha Vasisht Recommendation  Score: 2538.090361371018
+Kent Johnson Recommendation  Score: 1245.1250994193429
+Tomasz Zarna Recommendation  Score: 865.801163683751
+David Audel Recommendation  Score: 847.6119602926619
+Andrey Loskutov Recommendation  Score: 648.8079664476345
+Curtis Windatt Recommendation  Score: 628.0126014521301
+Noopur Gupta Recommendation  Score: 439.44738053059194
+Rajesh Recommendation  Score: 434.5162040133802
+Darin Wright Recommendation  Score: 433.35950486936275
+Francis Upton IV Recommendation  Score: 369.2839499147468
+Kim Moir Recommendation  Score: 300.45921688677294
+Luke Hutchison Recommendation  Score: 40.634279482125045
+Chris Simmons Recommendation  Score: 28.309642144409793
+Mittu Recommendation  Score: 27.538095238108
+Xiang Qinxian Recommendation  Score: 17.391696637849
+Russ Tennant Recommendation  Score: 14.948871652308771
+Sachiko Suzuki Recommendation  Score: 5.1812596824172275
+Channing Walton Recommendation  Score: 3.7571099154500383
+Sergio Fiorentini Recommendation  Score: 1.9501108647450913
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 390761 .....................................................................Srikanth Sankaran Recommendation  Score: 58754.86700707477
+Markus Keller Recommendation  Score: 17204.879447191724
+Dani Megert Recommendation  Score: 16066.293147900129
+Ayushman Jain Recommendation  Score: 13031.95160399102
+Olivier Thomann Recommendation  Score: 12822.031430459056
+Stephan Herrmann Recommendation  Score: 8983.976534220144
+Deepak Azad Recommendation  Score: 8452.224150849761
+Satyam Kandula Recommendation  Score: 8119.274877632073
+Frederic Fusier Recommendation  Score: 3967.964310954844
+Raksha Vasisht Recommendation  Score: 2432.5594196367356
+Andrey Loskutov Recommendation  Score: 1345.7434801517925
+Kent Johnson Recommendation  Score: 1220.206460424876
+Francis Upton IV Recommendation  Score: 1138.6226698934572
+David Audel Recommendation  Score: 831.7450538948452
+Curtis Windatt Recommendation  Score: 712.1998131336807
+Tomasz Zarna Recommendation  Score: 682.5161136868543
+Noopur Gupta Recommendation  Score: 484.4411119676219
+Darin Wright Recommendation  Score: 422.46848980893924
+Rajesh Recommendation  Score: 419.05201285590135
+Kim Moir Recommendation  Score: 288.79240060774066
+Luke Hutchison Recommendation  Score: 39.4701556628891
+Chris Simmons Recommendation  Score: 29.417165880199843
+Mittu Recommendation  Score: 26.527522935777593
+Xiang Qinxian Recommendation  Score: 17.00943312245036
+Russ Tennant Recommendation  Score: 14.645993522580328
+Sachiko Suzuki Recommendation  Score: 5.090003632876278
+Channing Walton Recommendation  Score: 3.689056603773383
+Sergio Fiorentini Recommendation  Score: 1.8995680345572665
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 390784 .....................................................................Srikanth Sankaran Recommendation  Score: 61736.214931360744
+Markus Keller Recommendation  Score: 17156.82737776413
+Dani Megert Recommendation  Score: 16273.604234690863
+Ayushman Jain Recommendation  Score: 12995.931814889622
+Olivier Thomann Recommendation  Score: 12802.951268063178
+Stephan Herrmann Recommendation  Score: 9079.758526317779
+Deepak Azad Recommendation  Score: 8455.47920500112
+Satyam Kandula Recommendation  Score: 8102.529305699807
+Frederic Fusier Recommendation  Score: 3963.809630539027
+Raksha Vasisht Recommendation  Score: 2428.449241384625
+Andrey Loskutov Recommendation  Score: 1425.141640785002
+Francis Upton IV Recommendation  Score: 1271.0736718584258
+Kent Johnson Recommendation  Score: 1219.1896448393518
+David Audel Recommendation  Score: 831.0847733441825
+Curtis Windatt Recommendation  Score: 708.906830002639
+Tomasz Zarna Recommendation  Score: 677.7764937094083
+Noopur Gupta Recommendation  Score: 486.68171133844373
+Darin Wright Recommendation  Score: 422.05123192957416
+Rajesh Recommendation  Score: 418.46104503873846
+Kim Moir Recommendation  Score: 288.33642027001423
+Luke Hutchison Recommendation  Score: 39.45784693794913
+Chris Simmons Recommendation  Score: 29.515190810247876
+Mittu Recommendation  Score: 26.48702290075377
+Xiang Qinxian Recommendation  Score: 16.99836648960428
+Russ Tennant Recommendation  Score: 14.633639723406993
+Sachiko Suzuki Recommendation  Score: 5.086108843219754
+Channing Walton Recommendation  Score: 3.686274509803909
+Sergio Fiorentini Recommendation  Score: 1.8975188781014385
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 390891 .....................................................................Srikanth Sankaran Recommendation  Score: 68028.17780407035
+Markus Keller Recommendation  Score: 17223.405341324156
+Dani Megert Recommendation  Score: 16566.924938160042
+Ayushman Jain Recommendation  Score: 12945.711070937185
+Olivier Thomann Recommendation  Score: 12781.994455688126
+Stephan Herrmann Recommendation  Score: 9214.073520157152
+Deepak Azad Recommendation  Score: 8635.186060803204
+Satyam Kandula Recommendation  Score: 8078.0105925941025
+Frederic Fusier Recommendation  Score: 3959.664057125635
+Raksha Vasisht Recommendation  Score: 2423.423548189481
+Andrey Loskutov Recommendation  Score: 1515.9308569269847
+Francis Upton IV Recommendation  Score: 1441.3506922699748
+Kent Johnson Recommendation  Score: 1218.1745305217726
+David Audel Recommendation  Score: 830.4255417406166
+Curtis Windatt Recommendation  Score: 708.5966347922673
+Tomasz Zarna Recommendation  Score: 673.2255242753369
+Noopur Gupta Recommendation  Score: 489.31009202657174
+Darin Wright Recommendation  Score: 421.5877323565832
+Rajesh Recommendation  Score: 417.7518388028097
+Kim Moir Recommendation  Score: 287.8689684638612
+Luke Hutchison Recommendation  Score: 39.37616572273748
+Chris Simmons Recommendation  Score: 29.618499807797622
+Mittu Recommendation  Score: 26.4466463414569
+Xiang Qinxian Recommendation  Score: 16.977962219267692
+Russ Tennant Recommendation  Score: 14.621306747552223
+Sachiko Suzuki Recommendation  Score: 5.0822200095494185
+Channing Walton Recommendation  Score: 3.683496608891927
+Sergio Fiorentini Recommendation  Score: 1.8954741379310687
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 391331 .....................................................................Srikanth Sankaran Recommendation  Score: 94007.03762521113
+Dani Megert Recommendation  Score: 26215.266821416084
+Markus Keller Recommendation  Score: 22672.97355990061
+Stephan Herrmann Recommendation  Score: 16314.483462113276
+Ayushman Jain Recommendation  Score: 12714.903531562086
+Olivier Thomann Recommendation  Score: 12663.885471564468
+Deepak Azad Recommendation  Score: 9618.511631726537
+Francis Upton IV Recommendation  Score: 9618.108786080405
+Satyam Kandula Recommendation  Score: 7960.5635073095
+Frederic Fusier Recommendation  Score: 3934.9801081489427
+Andrey Loskutov Recommendation  Score: 2539.0524344704463
+Raksha Vasisht Recommendation  Score: 2398.5572210072232
+Kent Johnson Recommendation  Score: 1212.1193319362046
+David Audel Recommendation  Score: 826.4920402593038
+Curtis Windatt Recommendation  Score: 773.4039661447017
+Tomasz Zarna Recommendation  Score: 649.694139418302
+Noopur Gupta Recommendation  Score: 503.4726887246234
+Darin Wright Recommendation  Score: 418.9691600030148
+Rajesh Recommendation  Score: 414.0506929293115
+Kim Moir Recommendation  Score: 285.14111285431625
+Luke Hutchison Recommendation  Score: 39.096877333491726
+Chris Simmons Recommendation  Score: 30.357704748511583
+Mittu Recommendation  Score: 26.20694864048411
+Xiang Qinxian Recommendation  Score: 16.884247154978727
+Russ Tennant Recommendation  Score: 14.547743248451702
+Sachiko Suzuki Recommendation  Score: 5.059011321634455
+Channing Walton Recommendation  Score: 3.6669167291827605
+Sergio Fiorentini Recommendation  Score: 1.8832976445396274
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 0.6666666666666666
+GT is is : 3
+
+for bug 391847 .....................................................................Srikanth Sankaran Recommendation  Score: 107823.88561355496
+Dani Megert Recommendation  Score: 21266.09813633014
+Markus Keller Recommendation  Score: 20515.957325240972
+Deepak Azad Recommendation  Score: 13277.291426490645
+Olivier Thomann Recommendation  Score: 12567.700840291222
+Ayushman Jain Recommendation  Score: 12524.66726495497
+Stephan Herrmann Recommendation  Score: 11770.988062828028
+Satyam Kandula Recommendation  Score: 7864.643682115647
+Andrey Loskutov Recommendation  Score: 6523.753162240488
+Frederic Fusier Recommendation  Score: 3914.654898497923
+Francis Upton IV Recommendation  Score: 3257.7910936734675
+Raksha Vasisht Recommendation  Score: 2377.287589660314
+Kent Johnson Recommendation  Score: 1207.1193403463924
+Curtis Windatt Recommendation  Score: 1136.3585175848734
+David Audel Recommendation  Score: 823.2425142036194
+Tomasz Zarna Recommendation  Score: 634.7984095419018
+Noopur Gupta Recommendation  Score: 516.9080432984285
+Darin Wright Recommendation  Score: 416.8137108021951
+Rajesh Recommendation  Score: 410.94459585226014
+Kim Moir Recommendation  Score: 282.91515021405297
+Luke Hutchison Recommendation  Score: 38.86716204700015
+Chris Simmons Recommendation  Score: 31.15027835269149
+Mittu Recommendation  Score: 26.010494752631097
+Xiang Qinxian Recommendation  Score: 16.80694106184097
+Russ Tennant Recommendation  Score: 14.487003432373772
+Sachiko Suzuki Recommendation  Score: 5.039832059424886
+Channing Walton Recommendation  Score: 3.6532137518686216
+Sergio Fiorentini Recommendation  Score: 1.8732694355698185
+
+top n is: 1
+Preccission is: 0.3
+Recall is : 1.0
+GT is is : 3
+
+for bug 392119 .....................................................................Srikanth Sankaran Recommendation  Score: 117054.3121685479
+Deepak Azad Recommendation  Score: 33187.53906629952
+Markus Keller Recommendation  Score: 23720.33792154674
+Dani Megert Recommendation  Score: 20128.79006639399
+Andrey Loskutov Recommendation  Score: 19278.551969090906
+Stephan Herrmann Recommendation  Score: 16973.449870604934
+Olivier Thomann Recommendation  Score: 12494.674281908356
+Ayushman Jain Recommendation  Score: 12390.682753899626
+Satyam Kandula Recommendation  Score: 7794.7791339069645
+Frederic Fusier Recommendation  Score: 3898.5993073384607
+Raksha Vasisht Recommendation  Score: 2361.6967939542187
+Curtis Windatt Recommendation  Score: 2333.2698413597036
+Francis Upton IV Recommendation  Score: 1440.4214433236157
+Kent Johnson Recommendation  Score: 1203.1587248849567
+David Audel Recommendation  Score: 820.6612580212975
+Tomasz Zarna Recommendation  Score: 625.9232257399267
+Noopur Gupta Recommendation  Score: 527.7519939922336
+Darin Wright Recommendation  Score: 415.1496515325842
+Rajesh Recommendation  Score: 408.5997122325661
+Kim Moir Recommendation  Score: 281.2072720828806
+Luke Hutchison Recommendation  Score: 38.73063102430586
+Chris Simmons Recommendation  Score: 31.92124513309566
+Mittu Recommendation  Score: 25.85543964231751
+Xiang Qinxian Recommendation  Score: 16.75014612151367
+Russ Tennant Recommendation  Score: 14.438775552614457
+Sachiko Suzuki Recommendation  Score: 5.02459303781681
+Channing Walton Recommendation  Score: 3.642324888226794
+Sergio Fiorentini Recommendation  Score: 1.8653234358430788
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 380501 .....................................................................Dani Megert Recommendation  Score: 44500.653229618576
+Ayushman Jain Recommendation  Score: 42267.25418858144
+Markus Keller Recommendation  Score: 31765.50249326734
+Srikanth Sankaran Recommendation  Score: 26550.519095472508
+Stephan Herrmann Recommendation  Score: 18366.78534760778
+Deepak Azad Recommendation  Score: 17683.735660016202
+Olivier Thomann Recommendation  Score: 17604.434749417258
+Satyam Kandula Recommendation  Score: 16265.203193654299
+Frederic Fusier Recommendation  Score: 4594.110293030463
+Raksha Vasisht Recommendation  Score: 3198.705083150851
+Kent Johnson Recommendation  Score: 1367.4068079118852
+Chris Simmons Recommendation  Score: 1082.500560776642
+David Audel Recommendation  Score: 926.7398479692212
+Tomasz Zarna Recommendation  Score: 879.9993225208149
+Curtis Windatt Recommendation  Score: 640.9372229761957
+Rajesh Recommendation  Score: 520.8618923151589
+Darin Wright Recommendation  Score: 489.7496110355058
+Kim Moir Recommendation  Score: 370.1922282465732
+Andrey Loskutov Recommendation  Score: 349.0871661313259
+Noopur Gupta Recommendation  Score: 321.768852602981
+Francis Upton IV Recommendation  Score: 157.13284870100728
+Luke Hutchison Recommendation  Score: 46.661492881307645
+Mittu Recommendation  Score: 33.04571428570537
+Xiang Qinxian Recommendation  Score: 19.32683423381033
+Russ Tennant Recommendation  Score: 16.435906964387705
+Sachiko Suzuki Recommendation  Score: 5.647931626880408
+Channing Walton Recommendation  Score: 4.08695652173932
+Sergio Fiorentini Recommendation  Score: 2.2070263488080073
+
+top n is: 2
+Preccission is: 0.3
+Recall is : 0.75
+GT is is : 4
+
+for bug 382345 .....................................................................Markus Keller Recommendation  Score: 32509.93184081391
+Srikanth Sankaran Recommendation  Score: 31442.432511198065
+Ayushman Jain Recommendation  Score: 28872.708320250764
+Dani Megert Recommendation  Score: 22240.195586738308
+Olivier Thomann Recommendation  Score: 15785.813994408083
+Satyam Kandula Recommendation  Score: 12989.020224242016
+Deepak Azad Recommendation  Score: 11881.952527345846
+Stephan Herrmann Recommendation  Score: 9986.865468636564
+Frederic Fusier Recommendation  Score: 4487.050408573202
+Raksha Vasisht Recommendation  Score: 3044.8785673504535
+Kent Johnson Recommendation  Score: 1343.5222173693012
+Tomasz Zarna Recommendation  Score: 1270.6410370727363
+David Audel Recommendation  Score: 911.1188828740482
+Curtis Windatt Recommendation  Score: 635.4338779506978
+Rajesh Recommendation  Score: 502.4543978995798
+Darin Wright Recommendation  Score: 478.2422292749199
+Andrey Loskutov Recommendation  Score: 355.42756240502
+Kim Moir Recommendation  Score: 354.50024414230154
+Noopur Gupta Recommendation  Score: 337.2603394327096
+Francis Upton IV Recommendation  Score: 166.61947198386449
+Chris Simmons Recommendation  Score: 73.26263268504225
+Luke Hutchison Recommendation  Score: 45.44088413750711
+Mittu Recommendation  Score: 31.891544117633504
+Xiang Qinxian Recommendation  Score: 18.94140586060592
+Russ Tennant Recommendation  Score: 16.145288418395058
+Sachiko Suzuki Recommendation  Score: 5.553553382402737
+Channing Walton Recommendation  Score: 4.023045267489916
+Sergio Fiorentini Recommendation  Score: 2.1556372549019813
+
+top n is: 2
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 382353 .....................................................................Srikanth Sankaran Recommendation  Score: 32607.78074696849
+Markus Keller Recommendation  Score: 32507.027961747266
+Ayushman Jain Recommendation  Score: 28839.561206007347
+Dani Megert Recommendation  Score: 22236.777086050035
+Olivier Thomann Recommendation  Score: 15785.199918214395
+Satyam Kandula Recommendation  Score: 12987.6347606042
+Deepak Azad Recommendation  Score: 11881.487741845123
+Stephan Herrmann Recommendation  Score: 9985.265677454052
+Frederic Fusier Recommendation  Score: 4486.636040406038
+Raksha Vasisht Recommendation  Score: 3044.6371634420916
+Kent Johnson Recommendation  Score: 1343.5222173693012
+Tomasz Zarna Recommendation  Score: 1286.2294717237496
+David Audel Recommendation  Score: 911.0582640064523
+Curtis Windatt Recommendation  Score: 635.4338779506978
+Rajesh Recommendation  Score: 502.39658878141074
+Darin Wright Recommendation  Score: 478.2422292749199
+Andrey Loskutov Recommendation  Score: 355.3108165411098
+Kim Moir Recommendation  Score: 354.4983697518583
+Noopur Gupta Recommendation  Score: 337.53454478925227
+Francis Upton IV Recommendation  Score: 166.61947198386449
+Chris Simmons Recommendation  Score: 73.26263268504225
+Luke Hutchison Recommendation  Score: 45.44088413750711
+Mittu Recommendation  Score: 31.891544117633504
+Xiang Qinxian Recommendation  Score: 18.93573524142874
+Russ Tennant Recommendation  Score: 16.145288418395058
+Sachiko Suzuki Recommendation  Score: 5.553553382402737
+Channing Walton Recommendation  Score: 4.023045267489916
+Sergio Fiorentini Recommendation  Score: 2.1556372549019813
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 382354 .....................................................................Srikanth Sankaran Recommendation  Score: 32607.1694129859
+Markus Keller Recommendation  Score: 32505.157453378
+Ayushman Jain Recommendation  Score: 28863.660932340827
+Dani Megert Recommendation  Score: 22234.674732090934
+Olivier Thomann Recommendation  Score: 15784.993740754522
+Satyam Kandula Recommendation  Score: 12985.721349850412
+Deepak Azad Recommendation  Score: 11880.00902481489
+Stephan Herrmann Recommendation  Score: 9983.972657035756
+Frederic Fusier Recommendation  Score: 4486.616401607444
+Raksha Vasisht Recommendation  Score: 3044.6065780855165
+Kent Johnson Recommendation  Score: 1343.5222173693012
+Tomasz Zarna Recommendation  Score: 1286.2294717237496
+David Audel Recommendation  Score: 911.0582640064523
+Curtis Windatt Recommendation  Score: 635.4338779506978
+Rajesh Recommendation  Score: 502.3698168605825
+Darin Wright Recommendation  Score: 478.2422292749199
+Andrey Loskutov Recommendation  Score: 355.3108165411098
+Kim Moir Recommendation  Score: 354.4983697518583
+Noopur Gupta Recommendation  Score: 337.56874060546056
+Francis Upton IV Recommendation  Score: 166.61947198386449
+Chris Simmons Recommendation  Score: 73.26263268504225
+Luke Hutchison Recommendation  Score: 45.44088413750711
+Mittu Recommendation  Score: 31.891544117633504
+Xiang Qinxian Recommendation  Score: 18.93573524142874
+Russ Tennant Recommendation  Score: 16.145288418395058
+Sachiko Suzuki Recommendation  Score: 5.553553382402737
+Channing Walton Recommendation  Score: 4.023045267489916
+Sergio Fiorentini Recommendation  Score: 2.1556372549019813
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 382355 .....................................................................Srikanth Sankaran Recommendation  Score: 32607.214892280364
+Markus Keller Recommendation  Score: 32504.865068590898
+Ayushman Jain Recommendation  Score: 28863.565893096307
+Dani Megert Recommendation  Score: 22234.77420161717
+Olivier Thomann Recommendation  Score: 15784.91711064195
+Satyam Kandula Recommendation  Score: 12985.685612906913
+Deepak Azad Recommendation  Score: 11879.97355575984
+Stephan Herrmann Recommendation  Score: 9983.688202151838
+Frederic Fusier Recommendation  Score: 4486.584804949633
+Raksha Vasisht Recommendation  Score: 3044.6035204792825
+Kent Johnson Recommendation  Score: 1343.5143245404577
+Tomasz Zarna Recommendation  Score: 1286.2294717237496
+David Audel Recommendation  Score: 911.0582640064523
+Curtis Windatt Recommendation  Score: 635.4338779506978
+Rajesh Recommendation  Score: 502.3698168605825
+Darin Wright Recommendation  Score: 478.2422292749199
+Andrey Loskutov Recommendation  Score: 355.3108165411098
+Kim Moir Recommendation  Score: 354.4980852915202
+Noopur Gupta Recommendation  Score: 337.57324169020507
+Francis Upton IV Recommendation  Score: 166.61947198386449
+Chris Simmons Recommendation  Score: 73.26263268504225
+Luke Hutchison Recommendation  Score: 45.44088413750711
+Mittu Recommendation  Score: 31.891544117633504
+Xiang Qinxian Recommendation  Score: 18.93573524142874
+Russ Tennant Recommendation  Score: 16.145288418395058
+Sachiko Suzuki Recommendation  Score: 5.553553382402737
+Channing Walton Recommendation  Score: 4.023045267489916
+Sergio Fiorentini Recommendation  Score: 2.1556372549019813
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 383595 .....................................................................Srikanth Sankaran Recommendation  Score: 56106.14917974879
+Markus Keller Recommendation  Score: 40970.89367872861
+Ayushman Jain Recommendation  Score: 28796.857775573768
+Dani Megert Recommendation  Score: 24925.322515185417
+Olivier Thomann Recommendation  Score: 15243.796038981638
+Stephan Herrmann Recommendation  Score: 12091.776576581628
+Satyam Kandula Recommendation  Score: 11376.269574438607
+Deepak Azad Recommendation  Score: 11101.147957356161
+Frederic Fusier Recommendation  Score: 4409.483636523581
+Raksha Vasisht Recommendation  Score: 2944.644426232394
+Tomasz Zarna Recommendation  Score: 2195.6585373702173
+Kent Johnson Recommendation  Score: 1325.250587046336
+David Audel Recommendation  Score: 899.6548108837709
+Curtis Windatt Recommendation  Score: 659.0034719165942
+Rajesh Recommendation  Score: 489.47231565680687
+Darin Wright Recommendation  Score: 469.6383099045224
+Andrey Loskutov Recommendation  Score: 364.8255887203426
+Noopur Gupta Recommendation  Score: 349.92572029821616
+Kim Moir Recommendation  Score: 343.2952852542424
+Francis Upton IV Recommendation  Score: 177.0468050145676
+Chris Simmons Recommendation  Score: 47.66890371123131
+Luke Hutchison Recommendation  Score: 44.557196675272685
+Mittu Recommendation  Score: 31.035778175321564
+Xiang Qinxian Recommendation  Score: 18.658088332233543
+Russ Tennant Recommendation  Score: 15.923012507181497
+Sachiko Suzuki Recommendation  Score: 5.489343670036539
+Channing Walton Recommendation  Score: 3.973983739837688
+Sergio Fiorentini Recommendation  Score: 2.1167268351384387
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 383966 .....................................................................Srikanth Sankaran Recommendation  Score: 69081.50409491052
+Markus Keller Recommendation  Score: 32638.362393641884
+Ayushman Jain Recommendation  Score: 23791.731144983776
+Dani Megert Recommendation  Score: 19192.215294422505
+Stephan Herrmann Recommendation  Score: 17805.040890801603
+Olivier Thomann Recommendation  Score: 15121.227014773165
+Deepak Azad Recommendation  Score: 11374.15488167193
+Satyam Kandula Recommendation  Score: 11118.25955765228
+Frederic Fusier Recommendation  Score: 4389.160537786428
+Raksha Vasisht Recommendation  Score: 2918.1960715664536
+Tomasz Zarna Recommendation  Score: 2799.8072987381934
+Kent Johnson Recommendation  Score: 1320.8510044052884
+David Audel Recommendation  Score: 896.5722312064297
+Curtis Windatt Recommendation  Score: 672.1682717113516
+Rajesh Recommendation  Score: 486.2261201333866
+Darin Wright Recommendation  Score: 467.53851510900904
+Andrey Loskutov Recommendation  Score: 368.9514201095633
+Noopur Gupta Recommendation  Score: 353.66783901917563
+Kim Moir Recommendation  Score: 340.8405410899534
+Francis Upton IV Recommendation  Score: 180.4430746359636
+Luke Hutchison Recommendation  Score: 44.342392924247456
+Chris Simmons Recommendation  Score: 44.074501180906225
+Mittu Recommendation  Score: 30.81527531082952
+Xiang Qinxian Recommendation  Score: 18.582457269905547
+Russ Tennant Recommendation  Score: 15.864768802322741
+Sachiko Suzuki Recommendation  Score: 5.471269857974844
+Channing Walton Recommendation  Score: 3.9643146796432953
+Sergio Fiorentini Recommendation  Score: 2.106586826347324
+
+top n is: 5
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 383968 .....................................................................Srikanth Sankaran Recommendation  Score: 69081.50409491052
+Markus Keller Recommendation  Score: 32636.00946818969
+Ayushman Jain Recommendation  Score: 23790.970984100793
+Dani Megert Recommendation  Score: 19192.215294422505
+Stephan Herrmann Recommendation  Score: 17804.78087591231
+Olivier Thomann Recommendation  Score: 15120.443381087336
+Deepak Azad Recommendation  Score: 11373.830827785641
+Satyam Kandula Recommendation  Score: 11118.25955765228
+Frederic Fusier Recommendation  Score: 4389.09864314659
+Raksha Vasisht Recommendation  Score: 2918.188269355294
+Tomasz Zarna Recommendation  Score: 2799.8681462934715
+Kent Johnson Recommendation  Score: 1320.7928799981196
+David Audel Recommendation  Score: 896.5722312064297
+Curtis Windatt Recommendation  Score: 672.1557036107066
+Rajesh Recommendation  Score: 486.2157320791842
+Darin Wright Recommendation  Score: 467.5344922627022
+Andrey Loskutov Recommendation  Score: 368.9514201095633
+Noopur Gupta Recommendation  Score: 353.66783901917563
+Kim Moir Recommendation  Score: 340.8367767514778
+Francis Upton IV Recommendation  Score: 180.4430746359636
+Luke Hutchison Recommendation  Score: 44.342392924247456
+Chris Simmons Recommendation  Score: 44.074501180906225
+Mittu Recommendation  Score: 30.81527531082952
+Xiang Qinxian Recommendation  Score: 18.582457269905547
+Russ Tennant Recommendation  Score: 15.864768802322741
+Sachiko Suzuki Recommendation  Score: 5.471269857974844
+Channing Walton Recommendation  Score: 3.9643146796432953
+Sergio Fiorentini Recommendation  Score: 2.106586826347324
+
+top n is: 5
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 383973 .....................................................................Srikanth Sankaran Recommendation  Score: 69080.73745137399
+Markus Keller Recommendation  Score: 32314.7374196157
+Ayushman Jain Recommendation  Score: 23795.720963422238
+Dani Megert Recommendation  Score: 19192.06005538585
+Stephan Herrmann Recommendation  Score: 17801.301970989163
+Olivier Thomann Recommendation  Score: 15114.60847412182
+Deepak Azad Recommendation  Score: 11371.276662158269
+Satyam Kandula Recommendation  Score: 11118.25955765228
+Frederic Fusier Recommendation  Score: 4388.797455784449
+Raksha Vasisht Recommendation  Score: 2917.9085044016224
+Tomasz Zarna Recommendation  Score: 2799.8681462934715
+Kent Johnson Recommendation  Score: 1320.4622484654028
+David Audel Recommendation  Score: 896.5722312064297
+Curtis Windatt Recommendation  Score: 678.0966822902
+Rajesh Recommendation  Score: 486.0355297220282
+Darin Wright Recommendation  Score: 467.4340957993458
+Andrey Loskutov Recommendation  Score: 368.8346549311134
+Noopur Gupta Recommendation  Score: 353.66783901917563
+Kim Moir Recommendation  Score: 340.5451889117265
+Francis Upton IV Recommendation  Score: 180.41732131268105
+Luke Hutchison Recommendation  Score: 44.342392924247456
+Chris Simmons Recommendation  Score: 44.074501180906225
+Mittu Recommendation  Score: 30.81527531082952
+Xiang Qinxian Recommendation  Score: 18.582457269905547
+Russ Tennant Recommendation  Score: 15.864768802322741
+Sachiko Suzuki Recommendation  Score: 5.471269857974844
+Channing Walton Recommendation  Score: 3.96110210696938
+Sergio Fiorentini Recommendation  Score: 2.106586826347324
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 388634 .....................................................................Srikanth Sankaran Recommendation  Score: 25568.195238356504
+Markus Keller Recommendation  Score: 17669.318784904164
+Dani Megert Recommendation  Score: 16923.731166469588
+Ayushman Jain Recommendation  Score: 14396.842293658103
+Olivier Thomann Recommendation  Score: 13400.658191855437
+Satyam Kandula Recommendation  Score: 8733.426072972148
+Stephan Herrmann Recommendation  Score: 8325.940717307034
+Deepak Azad Recommendation  Score: 8210.647371660812
+Frederic Fusier Recommendation  Score: 4083.7548502200248
+Raksha Vasisht Recommendation  Score: 2556.3291242328855
+Kent Johnson Recommendation  Score: 1248.329938590389
+Tomasz Zarna Recommendation  Score: 910.5026445906933
+David Audel Recommendation  Score: 849.9784889202192
+Curtis Windatt Recommendation  Score: 617.0317663795144
+Andrey Loskutov Recommendation  Score: 604.4390018746168
+Rajesh Recommendation  Score: 436.9273380698878
+Darin Wright Recommendation  Score: 434.81276861351654
+Noopur Gupta Recommendation  Score: 432.8065547343477
+Francis Upton IV Recommendation  Score: 345.4389374400766
+Kim Moir Recommendation  Score: 302.06606212859595
+Luke Hutchison Recommendation  Score: 40.835049293783484
+Chris Simmons Recommendation  Score: 28.45200377248858
+Mittu Recommendation  Score: 27.669856459330912
+Xiang Qinxian Recommendation  Score: 17.451003585950026
+Russ Tennant Recommendation  Score: 14.987614513877714
+Sachiko Suzuki Recommendation  Score: 5.19746536987968
+Channing Walton Recommendation  Score: 3.7657935285049655
+Sergio Fiorentini Recommendation  Score: 1.9566184649610339
+
+top n is: 7
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 388739 .....................................................................Srikanth Sankaran Recommendation  Score: 25965.31757143353
+Markus Keller Recommendation  Score: 17329.26697598602
+Dani Megert Recommendation  Score: 16501.530253588895
+Ayushman Jain Recommendation  Score: 14302.052772174371
+Olivier Thomann Recommendation  Score: 13374.513972729976
+Satyam Kandula Recommendation  Score: 8693.876332812813
+Stephan Herrmann Recommendation  Score: 8416.965449076928
+Deepak Azad Recommendation  Score: 8183.171083070023
+Frederic Fusier Recommendation  Score: 4077.3915847989415
+Raksha Vasisht Recommendation  Score: 2547.664155409678
+Kent Johnson Recommendation  Score: 1247.2552001019892
+Tomasz Zarna Recommendation  Score: 890.4706915652055
+David Audel Recommendation  Score: 848.9867834942406
+Andrey Loskutov Recommendation  Score: 625.643398658924
+Curtis Windatt Recommendation  Score: 620.138247558913
+Noopur Gupta Recommendation  Score: 436.07169458390206
+Rajesh Recommendation  Score: 435.8830700684219
+Darin Wright Recommendation  Score: 434.29499404461325
+Francis Upton IV Recommendation  Score: 352.8994095182654
+Kim Moir Recommendation  Score: 301.49191326151083
+Luke Hutchison Recommendation  Score: 40.73441553701164
+Chris Simmons Recommendation  Score: 28.32704101427462
+Mittu Recommendation  Score: 27.625796178336977
+Xiang Qinxian Recommendation  Score: 17.42472716003352
+Russ Tennant Recommendation  Score: 14.974677932507435
+Sachiko Suzuki Recommendation  Score: 5.189349873918522
+Channing Walton Recommendation  Score: 3.7628945342569216
+Sergio Fiorentini Recommendation  Score: 1.9544444444443834
+
+top n is: 7
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 388800 .....................................................................Srikanth Sankaran Recommendation  Score: 25960.942637338878
+Markus Keller Recommendation  Score: 17140.178511442118
+Dani Megert Recommendation  Score: 16245.443507462543
+Ayushman Jain Recommendation  Score: 14273.036959241455
+Olivier Thomann Recommendation  Score: 13354.52425753396
+Satyam Kandula Recommendation  Score: 8683.589380895719
+Stephan Herrmann Recommendation  Score: 8420.554917200256
+Deepak Azad Recommendation  Score: 8169.352865914632
+Frederic Fusier Recommendation  Score: 4074.8866969926894
+Raksha Vasisht Recommendation  Score: 2546.6730312266486
+Kent Johnson Recommendation  Score: 1246.1925986027272
+Tomasz Zarna Recommendation  Score: 884.1839989469996
+David Audel Recommendation  Score: 848.6004541394149
+Andrey Loskutov Recommendation  Score: 625.3543130304005
+Curtis Windatt Recommendation  Score: 623.7513945193118
+Noopur Gupta Recommendation  Score: 436.10594999518236
+Rajesh Recommendation  Score: 435.55385043288175
+Darin Wright Recommendation  Score: 433.854871594613
+Francis Upton IV Recommendation  Score: 360.8788940548335
+Kim Moir Recommendation  Score: 301.02795847974835
+Luke Hutchison Recommendation  Score: 40.73441553701164
+Chris Simmons Recommendation  Score: 28.422861283572775
+Mittu Recommendation  Score: 27.58187599363156
+Xiang Qinxian Recommendation  Score: 17.417871045367452
+Russ Tennant Recommendation  Score: 14.961763664549233
+Sachiko Suzuki Recommendation  Score: 5.189349873918522
+Channing Walton Recommendation  Score: 3.760000000000285
+Sergio Fiorentini Recommendation  Score: 1.9522752497225515
+
+top n is: 1
+Preccission is: 0.3
+Recall is : 1.0
+GT is is : 3
+
+for bug 388954 .....................................................................Srikanth Sankaran Recommendation  Score: 26896.260472790324
+Markus Keller Recommendation  Score: 16989.521526374738
+Dani Megert Recommendation  Score: 16017.866035401552
+Ayushman Jain Recommendation  Score: 14172.707561728796
+Olivier Thomann Recommendation  Score: 13323.351263867593
+Satyam Kandula Recommendation  Score: 8636.531545596767
+Stephan Herrmann Recommendation  Score: 8561.800092412192
+Deepak Azad Recommendation  Score: 8138.122364387481
+Frederic Fusier Recommendation  Score: 4067.83915938524
+Raksha Vasisht Recommendation  Score: 2537.6413774156786
+Kent Johnson Recommendation  Score: 1245.0151134739572
+Tomasz Zarna Recommendation  Score: 859.9110380042941
+David Audel Recommendation  Score: 847.3845439837647
+Andrey Loskutov Recommendation  Score: 648.6192840847835
+Curtis Windatt Recommendation  Score: 627.9988014749053
+Noopur Gupta Recommendation  Score: 439.44738053059194
+Rajesh Recommendation  Score: 434.44661252115463
+Darin Wright Recommendation  Score: 433.1908706931412
+Francis Upton IV Recommendation  Score: 378.3107957457759
+Kim Moir Recommendation  Score: 300.347219406566
+Luke Hutchison Recommendation  Score: 40.634279482125045
+Chris Simmons Recommendation  Score: 28.410168950199036
+Mittu Recommendation  Score: 27.494453248810647
+Xiang Qinxian Recommendation  Score: 17.391696637849
+Russ Tennant Recommendation  Score: 14.948871652308771
+Sachiko Suzuki Recommendation  Score: 5.1812596824172275
+Channing Walton Recommendation  Score: 3.7571099154500383
+Sergio Fiorentini Recommendation  Score: 1.9501108647450913
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 390883 .....................................................................Srikanth Sankaran Recommendation  Score: 67489.91150841358
+Markus Keller Recommendation  Score: 17223.405341324156
+Dani Megert Recommendation  Score: 16539.19037681924
+Ayushman Jain Recommendation  Score: 12952.247584601637
+Olivier Thomann Recommendation  Score: 12781.994455688126
+Stephan Herrmann Recommendation  Score: 9216.991005781103
+Deepak Azad Recommendation  Score: 8601.870625946043
+Satyam Kandula Recommendation  Score: 8080.260249897482
+Frederic Fusier Recommendation  Score: 3959.664057125635
+Raksha Vasisht Recommendation  Score: 2424.118195181586
+Andrey Loskutov Recommendation  Score: 1515.9308569269847
+Francis Upton IV Recommendation  Score: 1441.3506922699748
+Kent Johnson Recommendation  Score: 1218.1745305217726
+David Audel Recommendation  Score: 830.4255417406166
+Curtis Windatt Recommendation  Score: 708.5966347922673
+Tomasz Zarna Recommendation  Score: 673.2255242753369
+Noopur Gupta Recommendation  Score: 488.99893453150975
+Darin Wright Recommendation  Score: 421.5877323565832
+Rajesh Recommendation  Score: 417.80170249846645
+Kim Moir Recommendation  Score: 287.8689684638612
+Luke Hutchison Recommendation  Score: 39.37616572273748
+Chris Simmons Recommendation  Score: 29.618499807797622
+Mittu Recommendation  Score: 26.4466463414569
+Xiang Qinxian Recommendation  Score: 16.977962219267692
+Russ Tennant Recommendation  Score: 14.621306747552223
+Sachiko Suzuki Recommendation  Score: 5.0822200095494185
+Channing Walton Recommendation  Score: 3.683496608891927
+Sergio Fiorentini Recommendation  Score: 1.8954741379310687
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 391376 .....................................................................Srikanth Sankaran Recommendation  Score: 92190.4529580038
+Dani Megert Recommendation  Score: 29731.767111961613
+Markus Keller Recommendation  Score: 22848.78452505497
+Stephan Herrmann Recommendation  Score: 16390.734454988586
+Ayushman Jain Recommendation  Score: 12681.275395639064
+Olivier Thomann Recommendation  Score: 12646.444466821064
+Deepak Azad Recommendation  Score: 9718.538819931724
+Francis Upton IV Recommendation  Score: 9618.065562236754
+Satyam Kandula Recommendation  Score: 7944.614814835975
+Frederic Fusier Recommendation  Score: 3930.9248178188163
+Andrey Loskutov Recommendation  Score: 2880.4227858126537
+Raksha Vasisht Recommendation  Score: 2394.541542431075
+Kent Johnson Recommendation  Score: 1211.120790200463
+David Audel Recommendation  Score: 825.840081616678
+Curtis Windatt Recommendation  Score: 802.1938984006749
+Tomasz Zarna Recommendation  Score: 646.3782722065391
+Noopur Gupta Recommendation  Score: 505.9878724280848
+Darin Wright Recommendation  Score: 418.5712414402244
+Rajesh Recommendation  Score: 413.4710140133591
+Kim Moir Recommendation  Score: 284.73106115920064
+Luke Hutchison Recommendation  Score: 39.096877333491726
+Chris Simmons Recommendation  Score: 30.5024073943817
+Mittu Recommendation  Score: 26.16742081447955
+Xiang Qinxian Recommendation  Score: 16.873339812115113
+Russ Tennant Recommendation  Score: 14.535554572708135
+Sachiko Suzuki Recommendation  Score: 5.055163799937983
+Channing Walton Recommendation  Score: 3.6641679160418428
+Sergio Fiorentini Recommendation  Score: 1.8812834224598418
+
+top n is: 4
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 392245 .....................................................................Srikanth Sankaran Recommendation  Score: 90153.26356363128
+Deepak Azad Recommendation  Score: 33194.67618846308
+Dani Megert Recommendation  Score: 23341.185482665507
+Markus Keller Recommendation  Score: 21342.63349034272
+Andrey Loskutov Recommendation  Score: 19278.248480292044
+Stephan Herrmann Recommendation  Score: 16867.77043739844
+Olivier Thomann Recommendation  Score: 12475.255732646567
+Ayushman Jain Recommendation  Score: 12355.730614329495
+Satyam Kandula Recommendation  Score: 7776.578575972515
+Frederic Fusier Recommendation  Score: 3894.5556128566122
+Raksha Vasisht Recommendation  Score: 2357.653007554111
+Curtis Windatt Recommendation  Score: 2332.5953294234687
+Francis Upton IV Recommendation  Score: 1269.991191545669
+Kent Johnson Recommendation  Score: 1202.16061855875
+David Audel Recommendation  Score: 820.01847458666
+Tomasz Zarna Recommendation  Score: 624.137332643878
+Noopur Gupta Recommendation  Score: 530.6741336753765
+Darin Wright Recommendation  Score: 414.7088468422001
+Rajesh Recommendation  Score: 407.99893488632443
+Kim Moir Recommendation  Score: 280.76706778226514
+Luke Hutchison Recommendation  Score: 38.68533474037558
+Chris Simmons Recommendation  Score: 32.13552608364715
+Mittu Recommendation  Score: 25.816964285709545
+Xiang Qinxian Recommendation  Score: 16.7348737786041
+Russ Tennant Recommendation  Score: 14.426768714118323
+Sachiko Suzuki Recommendation  Score: 5.020797671251266
+Channing Walton Recommendation  Score: 3.6396128071477634
+Sergio Fiorentini Recommendation  Score: 1.863347457627185
+
+top n is: 1
+Preccission is: 0.3
+Recall is : 0.6
+GT is is : 5
+
+for bug 392384 .....................................................................Srikanth Sankaran Recommendation  Score: 73468.4231548995
+Deepak Azad Recommendation  Score: 33206.76814061582
+Dani Megert Recommendation  Score: 23200.799705160403
+Markus Keller Recommendation  Score: 20464.93350175758
+Stephan Herrmann Recommendation  Score: 16758.172073888833
+Olivier Thomann Recommendation  Score: 12457.599734076995
+Ayushman Jain Recommendation  Score: 12321.388724130302
+Andrey Loskutov Recommendation  Score: 9710.999035863268
+Satyam Kandula Recommendation  Score: 7758.490873571618
+Frederic Fusier Recommendation  Score: 3890.6091646318105
+Raksha Vasisht Recommendation  Score: 2353.6959125535936
+Curtis Windatt Recommendation  Score: 1429.1855547646785
+Kent Johnson Recommendation  Score: 1201.1978358166477
+Francis Upton IV Recommendation  Score: 1137.440574855599
+David Audel Recommendation  Score: 819.376698635827
+Tomasz Zarna Recommendation  Score: 622.5299257085645
+Noopur Gupta Recommendation  Score: 533.6455790960434
+Darin Wright Recommendation  Score: 414.3078964254326
+Rajesh Recommendation  Score: 407.39993834322706
+Kim Moir Recommendation  Score: 280.35189515935355
+Luke Hutchison Recommendation  Score: 38.640144853329595
+Chris Simmons Recommendation  Score: 32.359142475577535
+Mittu Recommendation  Score: 25.778603268944934
+Xiang Qinxian Recommendation  Score: 16.719629369830947
+Russ Tennant Recommendation  Score: 14.414781828224017
+Sachiko Suzuki Recommendation  Score: 5.017008034156403
+Channing Walton Recommendation  Score: 3.6396128071477634
+Sergio Fiorentini Recommendation  Score: 1.8613756613756096
+
+top n is: 5
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 394539 .....................................................................Markus Keller Recommendation  Score: 25425.28817979194
+Srikanth Sankaran Recommendation  Score: 24279.902463142775
+Dani Megert Recommendation  Score: 20012.037385755164
+Stephan Herrmann Recommendation  Score: 17217.059494258458
+Olivier Thomann Recommendation  Score: 11916.57772602297
+Ayushman Jain Recommendation  Score: 11375.167048959622
+Satyam Kandula Recommendation  Score: 7247.3637111697635
+Deepak Azad Recommendation  Score: 6947.576582930199
+Frederic Fusier Recommendation  Score: 3770.8267125284383
+Raksha Vasisht Recommendation  Score: 2236.2425031012945
+Kent Johnson Recommendation  Score: 1171.3734162981245
+David Audel Recommendation  Score: 799.9687207176047
+Tomasz Zarna Recommendation  Score: 752.8800812185165
+Andrey Loskutov Recommendation  Score: 715.2435027802258
+Noopur Gupta Recommendation  Score: 662.715824031329
+Curtis Windatt Recommendation  Score: 609.7161202184017
+Darin Wright Recommendation  Score: 401.60553595562004
+Rajesh Recommendation  Score: 389.67265806110714
+Francis Upton IV Recommendation  Score: 314.0367812955107
+Kim Moir Recommendation  Score: 267.680041171614
+Chris Simmons Recommendation  Score: 48.26745054673422
+Luke Hutchison Recommendation  Score: 37.29004856417592
+Mittu Recommendation  Score: 24.643465909084775
+Xiang Qinxian Recommendation  Score: 16.26049993440731
+Russ Tennant Recommendation  Score: 14.05282031629992
+Sachiko Suzuki Recommendation  Score: 4.9023019335773625
+Channing Walton Recommendation  Score: 3.554909090908928
+Sergio Fiorentini Recommendation  Score: 1.8022540983607216
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 1.0
+GT is is : 2
+
+for bug 396258 .....................................................................Dani Megert Recommendation  Score: 51115.62928382403
+Stephan Herrmann Recommendation  Score: 34871.1308191778
+Srikanth Sankaran Recommendation  Score: 28927.162416300012
+Markus Keller Recommendation  Score: 22693.406119627525
+Olivier Thomann Recommendation  Score: 11573.552070486476
+Ayushman Jain Recommendation  Score: 10805.952179161019
+Satyam Kandula Recommendation  Score: 6927.451281144928
+Deepak Azad Recommendation  Score: 6167.877923265635
+Frederic Fusier Recommendation  Score: 3689.593462202223
+Raksha Vasisht Recommendation  Score: 2158.587185541619
+Curtis Windatt Recommendation  Score: 1329.084618615677
+Tomasz Zarna Recommendation  Score: 1200.9987765986168
+Kent Johnson Recommendation  Score: 1151.1025911044674
+Noopur Gupta Recommendation  Score: 862.513080528593
+David Audel Recommendation  Score: 786.5757902101484
+Andrey Loskutov Recommendation  Score: 471.7378833422305
+Darin Wright Recommendation  Score: 393.06030047195003
+Rajesh Recommendation  Score: 377.82473532020845
+Kim Moir Recommendation  Score: 259.45930413416824
+Francis Upton IV Recommendation  Score: 228.09420247429804
+Chris Simmons Recommendation  Score: 125.15767914165359
+Luke Hutchison Recommendation  Score: 36.34807531111415
+Mittu Recommendation  Score: 23.896694214875424
+Xiang Qinxian Recommendation  Score: 15.945630564520267
+Russ Tennant Recommendation  Score: 13.806779285274732
+Sachiko Suzuki Recommendation  Score: 4.820530339866424
+Channing Walton Recommendation  Score: 3.498926270580093
+Sergio Fiorentini Recommendation  Score: 1.7625250501002163
+
+top n is: 2
+Preccission is: 0.1
+Recall is : 1.0
+GT is is : 1
+
+for bug 395897 .....................................................................Srikanth Sankaran Recommendation  Score: 37393.150661372136
+Dani Megert Recommendation  Score: 31002.111001476973
+Stephan Herrmann Recommendation  Score: 30045.49342539288
+Markus Keller Recommendation  Score: 18126.11716110735
+Olivier Thomann Recommendation  Score: 11648.073642859063
+Ayushman Jain Recommendation  Score: 10927.08801176397
+Satyam Kandula Recommendation  Score: 6996.338619817999
+Deepak Azad Recommendation  Score: 6295.982883129797
+Tomasz Zarna Recommendation  Score: 5254.868673013129
+Frederic Fusier Recommendation  Score: 3707.749732189586
+Raksha Vasisht Recommendation  Score: 2175.5173515979673
+Kent Johnson Recommendation  Score: 1155.6464895301788
+Curtis Windatt Recommendation  Score: 815.9930430831322
+Noopur Gupta Recommendation  Score: 799.9576483746706
+David Audel Recommendation  Score: 789.5809377948885
+Andrey Loskutov Recommendation  Score: 506.4055053260312
+Darin Wright Recommendation  Score: 394.96137288422784
+Rajesh Recommendation  Score: 380.43151740726836
+Kim Moir Recommendation  Score: 261.26869890462643
+Francis Upton IV Recommendation  Score: 241.88253095050715
+Chris Simmons Recommendation  Score: 87.66151909891722
+Luke Hutchison Recommendation  Score: 36.548761619643265
+Mittu Recommendation  Score: 24.062413314846896
+Xiang Qinxian Recommendation  Score: 16.01517201970018
+Russ Tennant Recommendation  Score: 13.861938144857007
+Sachiko Suzuki Recommendation  Score: 4.838073870467446
+Channing Walton Recommendation  Score: 3.5114942528733875
+Sergio Fiorentini Recommendation  Score: 1.7713997985901606
+
+top n is: 2
+Preccission is: 0.1
+Recall is : 0.16666666666666666
+GT is is : 6
+
+for bug 372694 .....................................................................Deepak Azad Recommendation  Score: 63808.66317170489
+Markus Keller Recommendation  Score: 59436.438607112825
+Srikanth Sankaran Recommendation  Score: 55715.56789252194
+Dani Megert Recommendation  Score: 49371.103019057045
+Ayushman Jain Recommendation  Score: 47278.88163324047
+Satyam Kandula Recommendation  Score: 26226.60729129995
+Stephan Herrmann Recommendation  Score: 22493.071443740555
+Olivier Thomann Recommendation  Score: 20570.41417297381
+Frederic Fusier Recommendation  Score: 5145.893611579708
+Raksha Vasisht Recommendation  Score: 4230.187981747462
+Kent Johnson Recommendation  Score: 1487.1480865299286
+David Audel Recommendation  Score: 1003.1446031994346
+Curtis Windatt Recommendation  Score: 807.7722207042307
+Rajesh Recommendation  Score: 622.2326784470911
+Tomasz Zarna Recommendation  Score: 597.6752136431123
+Darin Wright Recommendation  Score: 558.3310627187118
+Kim Moir Recommendation  Score: 478.65976689627274
+Andrey Loskutov Recommendation  Score: 439.0687412178132
+Noopur Gupta Recommendation  Score: 270.2924608961673
+Francis Upton IV Recommendation  Score: 138.2429167928712
+Luke Hutchison Recommendation  Score: 53.1290459965612
+Mittu Recommendation  Score: 39.51936218678634
+Chris Simmons Recommendation  Score: 25.001461660946585
+Xiang Qinxian Recommendation  Score: 21.25516788570202
+Russ Tennant Recommendation  Score: 17.89379924631475
+Sachiko Suzuki Recommendation  Score: 6.0931930096881795
+Channing Walton Recommendation  Score: 4.403603603604151
+Sergio Fiorentini Recommendation  Score: 2.473980309423388
+
+top n is: 3
+Preccission is: 0.3
+Recall is : 1.0
+GT is is : 3
+
+for bug 373953 .....................................................................Satyam Kandula Recommendation  Score: 56434.10232235882
+Srikanth Sankaran Recommendation  Score: 50722.18516122809
+Ayushman Jain Recommendation  Score: 48385.2285003977
+Markus Keller Recommendation  Score: 44963.11358090634
+Dani Megert Recommendation  Score: 36977.761545215035
+Deepak Azad Recommendation  Score: 31456.898102739204
+Olivier Thomann Recommendation  Score: 19808.87952414407
+Stephan Herrmann Recommendation  Score: 15226.587215129543
+Frederic Fusier Recommendation  Score: 5049.7835369371005
+Raksha Vasisht Recommendation  Score: 3998.4120870629954
+Kent Johnson Recommendation  Score: 1467.7011628543853
+David Audel Recommendation  Score: 990.3486873007504
+Curtis Windatt Recommendation  Score: 768.9110559639813
+Rajesh Recommendation  Score: 603.6909481709937
+Tomasz Zarna Recommendation  Score: 560.444324089559
+Darin Wright Recommendation  Score: 544.3870193742338
+Kim Moir Recommendation  Score: 455.8614364993255
+Andrey Loskutov Recommendation  Score: 408.07303092964173
+Noopur Gupta Recommendation  Score: 277.26957099541653
+Francis Upton IV Recommendation  Score: 139.58343172243747
+Luke Hutchison Recommendation  Score: 52.03769610836367
+Mittu Recommendation  Score: 38.38274336283812
+Chris Simmons Recommendation  Score: 27.414546256408354
+Xiang Qinxian Recommendation  Score: 20.924895056281702
+Russ Tennant Recommendation  Score: 17.657046454240987
+Sachiko Suzuki Recommendation  Score: 6.015984985235348
+Channing Walton Recommendation  Score: 4.352626892252959
+Sergio Fiorentini Recommendation  Score: 2.42955801104973
+
+top n is: 1
+Preccission is: 0.3
+Recall is : 1.0
+GT is is : 3
+
+for bug 382606 .....................................................................Srikanth Sankaran Recommendation  Score: 40248.33630093022
+Ayushman Jain Recommendation  Score: 36172.59336799362
+Markus Keller Recommendation  Score: 34680.55896465
+Dani Megert Recommendation  Score: 23459.507933384764
+Olivier Thomann Recommendation  Score: 15707.812471833444
+Satyam Kandula Recommendation  Score: 12624.703160074354
+Deepak Azad Recommendation  Score: 11639.98995713113
+Stephan Herrmann Recommendation  Score: 9972.931376989609
+Frederic Fusier Recommendation  Score: 4477.3913082835015
+Raksha Vasisht Recommendation  Score: 3032.060329802645
+Kent Johnson Recommendation  Score: 1341.0567764341397
+Tomasz Zarna Recommendation  Score: 1340.8517529689082
+David Audel Recommendation  Score: 909.653863897047
+Curtis Windatt Recommendation  Score: 636.3606715522848
+Rajesh Recommendation  Score: 500.75801336846814
+Darin Wright Recommendation  Score: 477.07161196561594
+Andrey Loskutov Recommendation  Score: 355.89094760762794
+Kim Moir Recommendation  Score: 352.95039914503394
+Noopur Gupta Recommendation  Score: 338.69223585935976
+Francis Upton IV Recommendation  Score: 167.83907347683297
+Chris Simmons Recommendation  Score: 70.18882802204534
+Luke Hutchison Recommendation  Score: 45.31613004060145
+Mittu Recommendation  Score: 31.77472527474041
+Xiang Qinxian Recommendation  Score: 18.90235045266775
+Russ Tennant Recommendation  Score: 16.11529374202352
+Sachiko Suzuki Recommendation  Score: 5.544288750404812
+Channing Walton Recommendation  Score: 4.016433853738778
+Sergio Fiorentini Recommendation  Score: 2.1503667481662228
+
+top n is: 1
+Preccission is: 0.3
+Recall is : 1.0
+GT is is : 3
+
+for bug 385858 .....................................................................Srikanth Sankaran Recommendation  Score: 43098.47747871535
+Dani Megert Recommendation  Score: 22560.98200005898
+Markus Keller Recommendation  Score: 22083.0256998299
+Ayushman Jain Recommendation  Score: 19429.74514229599
+Deepak Azad Recommendation  Score: 16446.395799526996
+Olivier Thomann Recommendation  Score: 14417.642522497656
+Stephan Herrmann Recommendation  Score: 12346.496493311464
+Satyam Kandula Recommendation  Score: 9974.550127263039
+Frederic Fusier Recommendation  Score: 4271.045660481337
+Tomasz Zarna Recommendation  Score: 3942.7602093758214
+Raksha Vasisht Recommendation  Score: 2769.553376627044
+Kent Johnson Recommendation  Score: 1293.552837710368
+David Audel Recommendation  Score: 878.7576576049081
+Curtis Windatt Recommendation  Score: 851.5087028084054
+Rajesh Recommendation  Score: 466.66136568762215
+Darin Wright Recommendation  Score: 454.94133359888974
+Andrey Loskutov Recommendation  Score: 407.52249400124504
+Noopur Gupta Recommendation  Score: 378.51920233331873
+Kim Moir Recommendation  Score: 325.2011136913454
+Francis Upton IV Recommendation  Score: 207.1658977173181
+Luke Hutchison Recommendation  Score: 42.95829119016489
+Chris Simmons Recommendation  Score: 33.073426568158425
+Mittu Recommendation  Score: 29.55536626917293
+Xiang Qinxian Recommendation  Score: 18.14869209670734
+Russ Tennant Recommendation  Score: 15.537966082656125
+Sachiko Suzuki Recommendation  Score: 5.3652779616062265
+Channing Walton Recommendation  Score: 3.8886237072396566
+Sergio Fiorentini Recommendation  Score: 2.0501165501165644
+
+top n is: 1
+Preccission is: 0.3
+Recall is : 1.0
+GT is is : 3
+
+for bug 372449 .....................................................................Srikanth Sankaran Recommendation  Score: 62510.50523480859
+Ayushman Jain Recommendation  Score: 52922.98912935964
+Dani Megert Recommendation  Score: 47593.65885027536
+Markus Keller Recommendation  Score: 41180.24855240604
+Deepak Azad Recommendation  Score: 32751.963120140415
+Satyam Kandula Recommendation  Score: 25814.136479896693
+Stephan Herrmann Recommendation  Score: 21365.37411560183
+Olivier Thomann Recommendation  Score: 20840.032514539176
+Frederic Fusier Recommendation  Score: 5175.150892871498
+Raksha Vasisht Recommendation  Score: 4307.71137279515
+Kent Johnson Recommendation  Score: 1493.2335613273215
+David Audel Recommendation  Score: 1007.0067343073266
+Curtis Windatt Recommendation  Score: 821.107439922414
+Tomasz Zarna Recommendation  Score: 629.6408352160672
+Rajesh Recommendation  Score: 627.9395049714684
+Darin Wright Recommendation  Score: 563.3834559228466
+Kim Moir Recommendation  Score: 486.4890691887108
+Andrey Loskutov Recommendation  Score: 451.03131374221914
+Noopur Gupta Recommendation  Score: 268.37229760830826
+Francis Upton IV Recommendation  Score: 137.88559218535292
+Luke Hutchison Recommendation  Score: 53.47420372335516
+Mittu Recommendation  Score: 39.882758620694815
+Chris Simmons Recommendation  Score: 24.449919957048216
+Xiang Qinxian Recommendation  Score: 21.354326200535564
+Russ Tennant Recommendation  Score: 17.967928871953557
+Sachiko Suzuki Recommendation  Score: 6.115617786315362
+Channing Walton Recommendation  Score: 4.419529837251625
+Sergio Fiorentini Recommendation  Score: 2.4879773691654377
+
+top n is: 3
+Preccission is: 0.1
+Recall is : 0.3333333333333333
+GT is is : 3
+
+for bug 386285 .....................................................................Srikanth Sankaran Recommendation  Score: 27682.347433963358
+Markus Keller Recommendation  Score: 27150.785526333588
+Ayushman Jain Recommendation  Score: 21541.178431990462
+Dani Megert Recommendation  Score: 17386.33014174811
+Olivier Thomann Recommendation  Score: 14232.8921057742
+Deepak Azad Recommendation  Score: 11249.455919807797
+Satyam Kandula Recommendation  Score: 9737.887592846955
+Stephan Herrmann Recommendation  Score: 9707.943428494502
+Frederic Fusier Recommendation  Score: 4239.976432288069
+Raksha Vasisht Recommendation  Score: 2733.432966241133
+Tomasz Zarna Recommendation  Score: 2458.269384427096
+Kent Johnson Recommendation  Score: 1285.6292079830896
+David Audel Recommendation  Score: 874.110356190374
+Curtis Windatt Recommendation  Score: 687.2349355990852
+Rajesh Recommendation  Score: 461.59748154927155
+Darin Wright Recommendation  Score: 451.4281094495736
+Andrey Loskutov Recommendation  Score: 422.4481916943041
+Noopur Gupta Recommendation  Score: 385.6983141148117
+Kim Moir Recommendation  Score: 320.97906863460685
+Francis Upton IV Recommendation  Score: 219.06779394539478
+Luke Hutchison Recommendation  Score: 42.57082720001805
+Chris Simmons Recommendation  Score: 31.728055101112002
+Mittu Recommendation  Score: 29.25632377739948
+Xiang Qinxian Recommendation  Score: 18.028969866808836
+Russ Tennant Recommendation  Score: 15.441160159716558
+Sachiko Suzuki Recommendation  Score: 5.339418567739627
+Channing Walton Recommendation  Score: 3.867088607594555
+Sergio Fiorentini Recommendation  Score: 2.0335260115607663
+
+top n is: 3
+Preccission is: 0.2
+Recall is : 0.5
+GT is is : 4
+
+for bug 389312 .....................................................................Srikanth Sankaran Recommendation  Score: 39281.15006148492
+Markus Keller Recommendation  Score: 16940.17430716755
+Dani Megert Recommendation  Score: 15546.01907420529
+Ayushman Jain Recommendation  Score: 13877.90551205245
+Olivier Thomann Recommendation  Score: 13202.550945449555
+Stephan Herrmann Recommendation  Score: 9667.963511584867
+Satyam Kandula Recommendation  Score: 8515.52887680834
+Deepak Azad Recommendation  Score: 8072.172351002833
+Frederic Fusier Recommendation  Score: 4044.4407833402142
+Raksha Vasisht Recommendation  Score: 2513.703306788238
+Kent Johnson Recommendation  Score: 1238.9203605386617
+David Audel Recommendation  Score: 843.8123714659823
+Tomasz Zarna Recommendation  Score: 807.297682290165
+Andrey Loskutov Recommendation  Score: 718.9025866634552
+Curtis Windatt Recommendation  Score: 666.5975449417751
+Noopur Gupta Recommendation  Score: 448.23343083736137
+Francis Upton IV Recommendation  Score: 433.17710680321323
+Rajesh Recommendation  Score: 430.8235573064738
+Darin Wright Recommendation  Score: 430.67144396401096
+Kim Moir Recommendation  Score: 297.645719086455
+Luke Hutchison Recommendation  Score: 40.386092580696726
+Chris Simmons Recommendation  Score: 28.442856633766457
+Mittu Recommendation  Score: 27.278301886804226
+Xiang Qinxian Recommendation  Score: 17.302895521294488
+Russ Tennant Recommendation  Score: 14.871983743783169
+Sachiko Suzuki Recommendation  Score: 5.161144137003341
+Channing Walton Recommendation  Score: 3.742725880551085
+Sergio Fiorentini Recommendation  Score: 1.9372246696034658
+
+top n is: 1
+Preccission is: 0.1
+Recall is : 0.25
+GT is is : 4
+
+for bug 374153 .....................................................................Satyam Kandula Recommendation  Score: 56491.99778677908
+Srikanth Sankaran Recommendation  Score: 52342.86308596484
+Ayushman Jain Recommendation  Score: 51961.59491894245
+Markus Keller Recommendation  Score: 44076.21807982603
+Dani Megert Recommendation  Score: 37099.74659161905
+Deepak Azad Recommendation  Score: 32044.54525379266
+Olivier Thomann Recommendation  Score: 19716.569917589208
+Stephan Herrmann Recommendation  Score: 14693.568594739976
+Frederic Fusier Recommendation  Score: 5039.370491385589
+Raksha Vasisht Recommendation  Score: 3979.596691320701
+Kent Johnson Recommendation  Score: 1464.7656405796738
+David Audel Recommendation  Score: 988.9222282835846
+Curtis Windatt Recommendation  Score: 763.475401165029
+Rajesh Recommendation  Score: 601.7682643330314
+Tomasz Zarna Recommendation  Score: 558.1553826771006
+Darin Wright Recommendation  Score: 542.5222277829275
+Kim Moir Recommendation  Score: 453.06757919555423
+Andrey Loskutov Recommendation  Score: 404.1904748434093
+Noopur Gupta Recommendation  Score: 277.7997835670185
+Francis Upton IV Recommendation  Score: 139.87470774692443
+Luke Hutchison Recommendation  Score: 51.955617055291924
+Mittu Recommendation  Score: 38.21365638766362
+Chris Simmons Recommendation  Score: 27.620048805097074
+Xiang Qinxian Recommendation  Score: 20.891434227556264
+Russ Tennant Recommendation  Score: 17.621177885900753
+Sachiko Suzuki Recommendation  Score: 6.010544931319748
+Channing Walton Recommendation  Score: 4.344888888888931
+Sergio Fiorentini Recommendation  Score: 2.4228650137740506
+
+top n is: 4
+Preccission is: 0.2
+Recall is : 0.25
+GT is is : 8

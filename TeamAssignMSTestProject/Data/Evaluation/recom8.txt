@@ -1,0 +1,35 @@
+
+for bug 381134 .....................................................................
+Markus Keller Recommendation  Score: 30859.954338245065
+Ayushman Jain Recommendation  Score: 30325.723372416873
+Srikanth Sankaran Recommendation  Score: 28580.396801510902
+Dani Megert Recommendation  Score: 27749.09923101215
+Jay Arthanareeswaran Recommendation  Score: 19202.62045911942
+Deepak Azad Recommendation  Score: 18327.48091547666
+Olivier Thomann Recommendation  Score: 18247.32201514864
+Satyam Kandula Recommendation  Score: 16074.12438259605
+Stephan Herrmann Recommendation  Score: 11797.932081671559
+Frederic Fusier Recommendation  Score: 5003.554326289835
+Raksha Vasisht Recommendation  Score: 3238.155575995184
+Paul Webster Recommendation  Score: 2004.086208378317
+Remy Suen Recommendation  Score: 1940.3124824340498
+Kent Johnson Recommendation  Score: 1492.947255745923
+Jörg Thönnes Recommendation  Score: 857.3951774828902
+Curtis Windatt Recommendation  Score: 685.3216430712862
+Darin Wright Recommendation  Score: 521.1989505853005
+Tom Hofmann Recommendation  Score: 285.94952090093915
+Chris West (Faux) Recommendation  Score: 240.83637263276276
+Andrew Eisenberg Recommendation  Score: 208.79185649942065
+Michael Meß Recommendation  Score: 196.41666666665697
+Paul Fullbright Recommendation  Score: 135.04514419179972
+Glenview Jeff Recommendation  Score: 76.99831335687544
+Anton Leherbauer Recommendation  Score: 27.608995425095657
+Bernd Hopp Recommendation  Score: 19.58823529411487
+Alexander Kurtakov Recommendation  Score: 11.840618417319353
+Michael Martak Recommendation  Score: 9.354869816778303
+Marc Khouzam Recommendation  Score: 6.723224323683844
+
+top n is: 4
+Preccission is: 0.2
+Recall is : 0.6666666666666666
+GT is is : 3

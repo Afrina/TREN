@@ -1,0 +1,117 @@
+Srikanth Sankaran Recommendation  Score: 31305.204530134506
+Jay Arthanareeswaran Recommendation  Score: 31137.423852845666
+Dani Megert Recommendation  Score: 25028.80975414766
+Markus Keller Recommendation  Score: 23136.467722081983
+Olivier Thomann Recommendation  Score: 12803.065815317392
+Ayushman Jain Recommendation  Score: 12180.149994362404
+Satyam Kandula Recommendation  Score: 7741.352151350689
+Deepak Azad Recommendation  Score: 7502.01457169903
+Frederic Fusier Recommendation  Score: 4001.868696440796
+Raksha Vasisht Recommendation  Score: 2315.5965027902807
+Michael Rennie Recommendation  Score: 1445.0055573936677
+Remy Suen Recommendation  Score: 1342.1457789993503
+Kent Johnson Recommendation  Score: 1240.7265288326566
+Curtis Windatt Recommendation  Score: 788.9360792711806
+Tom Hofmann Recommendation  Score: 578.8465822059305
+Aaron Digulla Recommendation  Score: 556.924478218337
+Darin Wright Recommendation  Score: 529.355251935858
+Rajesh Recommendation  Score: 401.0079515074383
+Jerome Lanneluc Recommendation  Score: 307.9141390909156
+Prakash Rangaraj Recommendation  Score: 156.64886024793756
+Mateusz Matela Recommendation  Score: 154.43613306005668
+Jorn Hertsig Recommendation  Score: 72.71325963632218
+Konstantin Komissarchik Recommendation  Score: 71.41130424356847
+Ankur Sharma Recommendation  Score: 42.701936390081755
+Kris De Volder Recommendation  Score: 40.625783858520016
+Vladimir Lifar Recommendation  Score: 22.644792832691113
+BoD Recommendation  Score: 18.312625250503416
+Dmitry Balzer Recommendation  Score: 18.005911330055774
+James Willans Recommendation  Score: 16.782369146000455
+brunoconde Recommendation  Score: 15.04197530864302
+Anthony Hunter Recommendation  Score: 14.993261448438544
+Jeff Recommendation  Score: 14.431283085974394
+ulf.brosziewski Recommendation  Score: 13.166063660614801
+salam ELIAS Recommendation  Score: 4.8429752066114435
+Robert Kish Recommendation  Score: 1.6725417439703485
+7515668480
+7515668480
+4617974472
+calc done
+I am here.... major
+I am here  too.... 
+Jay Arthanareeswaran Recommendation  Score: 67120.85380626359
+Satyam Kandula Recommendation  Score: 59064.401105260535
+Srikanth Sankaran Recommendation  Score: 53952.44447862756
+Ayushman Jain Recommendation  Score: 50684.93609696113
+Markus Keller Recommendation  Score: 46754.207892454135
+Dani Megert Recommendation  Score: 38608.2030612807
+Deepak Azad Recommendation  Score: 32422.18809296258
+Olivier Thomann Recommendation  Score: 21145.523017459866
+Frederic Fusier Recommendation  Score: 5332.261090892457
+Raksha Vasisht Recommendation  Score: 4110.795954274356
+Michael Rennie Recommendation  Score: 3154.2964590515485
+Remy Suen Recommendation  Score: 2584.428885607002
+Kent Johnson Recommendation  Score: 1548.3800512468824
+Jorn Hertsig Recommendation  Score: 1357.8319858948955
+Curtis Windatt Recommendation  Score: 917.6559838938324
+Darin Wright Recommendation  Score: 717.8714132012411
+Rajesh Recommendation  Score: 616.8189425012872
+Jerome Lanneluc Recommendation  Score: 378.3349489828065
+Aaron Digulla Recommendation  Score: 304.6234594918783
+Prakash Rangaraj Recommendation  Score: 259.5817722250736
+Tom Hofmann Recommendation  Score: 223.73929085248264
+Mateusz Matela Recommendation  Score: 148.00617803277694
+Konstantin Komissarchik Recommendation  Score: 98.26926724098894
+Kris De Volder Recommendation  Score: 80.13559936594255
+Ankur Sharma Recommendation  Score: 73.3065781173763
+Vladimir Lifar Recommendation  Score: 28.403105703262693
+BoD Recommendation  Score: 24.30319148936119
+Dmitry Balzer Recommendation  Score: 23.796874999995833
+James Willans Recommendation  Score: 21.692335652274444
+brunoconde Recommendation  Score: 18.88016528925438
+Anthony Hunter Recommendation  Score: 18.476744699485156
+Jeff Recommendation  Score: 17.92197717009575
+ulf.brosziewski Recommendation  Score: 16.002687522583063
+salam ELIAS Recommendation  Score: 7.340292275574057
+Robert Kish Recommendation  Score: 2.169675090252754
+7515668480
+7515668480
+4517003416
+calc done
+I am here.... major
+I am here  too.... 
+Jay Arthanareeswaran Recommendation  Score: 67068.93729380799
+Satyam Kandula Recommendation  Score: 58910.75025738502
+Ayushman Jain Recommendation  Score: 54656.1919563555
+Srikanth Sankaran Recommendation  Score: 54438.884476280684
+Markus Keller Recommendation  Score: 45882.622390740995
+Dani Megert Recommendation  Score: 38522.388689929685
+Deepak Azad Recommendation  Score: 32192.580797399878
+Olivier Thomann Recommendation  Score: 21092.004563189043
+Frederic Fusier Recommendation  Score: 5325.269770146202
+Raksha Vasisht Recommendation  Score: 4095.462319503687
+Michael Rennie Recommendation  Score: 3078.7296017137737
+Remy Suen Recommendation  Score: 2572.218914424905
+Jorn Hertsig Recommendation  Score: 1570.6841441842348
+Kent Johnson Recommendation  Score: 1546.8250497038046
+Curtis Windatt Recommendation  Score: 914.63213963563
+Darin Wright Recommendation  Score: 716.5283450146657
+Rajesh Recommendation  Score: 615.464889922067
+Jerome Lanneluc Recommendation  Score: 377.9921337583023
+Aaron Digulla Recommendation  Score: 301.942324317284
+Prakash Rangaraj Recommendation  Score: 258.8709320238924
+Tom Hofmann Recommendation  Score: 223.86036656229103
+Mateusz Matela Recommendation  Score: 148.00065340536455
+Konstantin Komissarchik Recommendation  Score: 98.11986015139465
+Kris De Volder Recommendation  Score: 79.72781307353657
+Ankur Sharma Recommendation  Score: 73.09005336781706
+Vladimir Lifar Recommendation  Score: 28.373894535156893
+BoD Recommendation  Score: 24.270916334672183
+Dmitry Balzer Recommendation  Score: 23.765929778924466
+James Willans Recommendation  Score: 21.666618879759557
+brunoconde Recommendation  Score: 18.860681114552133
+Anthony Hunter Recommendation  Score: 18.45923627053824
+Jeff Recommendation  Score: 17.90436106488271
+ulf.brosziewski Recommendation  Score: 15.988683764029057
+salam ELIAS Recommendation  Score: 7.324999999999745
+Robert Kish Recommendation  Score: 2.1670673076923475

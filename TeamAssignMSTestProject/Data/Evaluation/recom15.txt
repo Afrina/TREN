@@ -1,0 +1,165 @@
+
+for bug 375248 .....................................................................Srikanth Sankaran Recommendation  Score: 52434.84104001487
+Dani Megert Recommendation  Score: 34729.37620773278
+Ayushman Jain Recommendation  Score: 34347.28390869304
+Markus Keller Recommendation  Score: 33254.28696090605
+Satyam Kandula Recommendation  Score: 31103.2234494521
+Jay Arthanareeswaran Recommendation  Score: 24330.846105772227
+Deepak Azad Recommendation  Score: 23337.439571391627
+Olivier Thomann Recommendation  Score: 22722.67051415583
+Stephan Herrmann Recommendation  Score: 14994.106829819792
+Frederic Fusier Recommendation  Score: 5708.30449665452
+Raksha Vasisht Recommendation  Score: 4111.832614341098
+Michael Rennie Recommendation  Score: 3081.1324014437073
+Remy Suen Recommendation  Score: 2606.7307914919547
+jules Recommendation  Score: 1982.3968441388033
+Kent Johnson Recommendation  Score: 1663.7804501014518
+David Audel Recommendation  Score: 1121.3079256046187
+John Arthorne Recommendation  Score: 1107.7555296977803
+Curtis Windatt Recommendation  Score: 953.8134936104013
+David Williams Recommendation  Score: 801.0651265196066
+Darin Wright Recommendation  Score: 761.2135067044975
+Tomasz Zarna Recommendation  Score: 621.6769360834214
+Kim Moir Recommendation  Score: 502.44261540638485
+Andrey Loskutov Recommendation  Score: 421.32629365713524
+Missing name Recommendation  Score: 414.31229408960246
+Walter Harley Recommendation  Score: 380.6425523092619
+Martin Oberhuber Recommendation  Score: 350.18832519790607
+Pawel Piech Recommendation  Score: 276.96333183442664
+Philipe Mulet Recommendation  Score: 250.38201468035587
+Tom Hofmann Recommendation  Score: 238.02954668090283
+Andrew Niefer Recommendation  Score: 168.69417157259454
+Benjamin Muskalla Recommendation  Score: 163.40823610942078
+Francis Upton IV Recommendation  Score: 150.42707523295724
+Konstantin Komissarchik Recommendation  Score: 103.89816542254546
+DJ Houghton Recommendation  Score: 91.03044027183503
+Boris Bokowski Recommendation  Score: 83.65171439369894
+Stefan Kolarov Recommendation  Score: 49.05896677441446
+Martin Monperrus Recommendation  Score: 45.64617537313251
+Chris Goldthorpe Recommendation  Score: 37.670792248285686
+Felipe Heidrich Recommendation  Score: 34.99414064696853
+Jason Mirra Recommendation  Score: 31.165048543696482
+michael.t Recommendation  Score: 31.08150470218946
+Tobias Gierke Recommendation  Score: 18.814041745720953
+Lakshmi Shanmugam Recommendation  Score: 18.667377398723637
+Eric Moffatt Recommendation  Score: 15.370604941480526
+Liangliang Zhang Recommendation  Score: 13.303947368423687
+Marcin Kowalski Recommendation  Score: 11.595183486237284
+James Cornett Recommendation  Score: 8.621134020619142
+Martin Herbst Recommendation  Score: 8.141045958795349
+Cameron Bateman Recommendation  Score: 7.641793537253881
+
+top n is: 1
+Preccission is: 0.5
+Recall is : 0.8333333333333334
+GT is is : 6
+
+for bug 383096 .....................................................................Srikanth Sankaran Recommendation  Score: 37511.3006123878
+Jay Arthanareeswaran Recommendation  Score: 30614.10623414642
+Ayushman Jain Recommendation  Score: 27859.088788821828
+Markus Keller Recommendation  Score: 27359.631595252908
+Dani Megert Recommendation  Score: 22861.75701169537
+Olivier Thomann Recommendation  Score: 18248.191073602353
+Satyam Kandula Recommendation  Score: 13679.922927143907
+Deepak Azad Recommendation  Score: 12083.268608326007
+Stephan Herrmann Recommendation  Score: 11595.279980403697
+David Williams Recommendation  Score: 10642.1283415272
+Frederic Fusier Recommendation  Score: 5106.039873104886
+Raksha Vasisht Recommendation  Score: 3207.246050112281
+Michael Rennie Recommendation  Score: 2453.3343472597608
+Remy Suen Recommendation  Score: 1941.8180076886072
+Tomasz Zarna Recommendation  Score: 1867.2381748905566
+Kent Johnson Recommendation  Score: 1530.1174362146894
+John Arthorne Recommendation  Score: 1360.1922637712314
+David Audel Recommendation  Score: 1035.9745210223348
+Curtis Windatt Recommendation  Score: 862.6081685371926
+Darin Wright Recommendation  Score: 673.5241991823012
+Kim Moir Recommendation  Score: 399.6561268379625
+Andrey Loskutov Recommendation  Score: 387.90639598688955
+Tom Hofmann Recommendation  Score: 372.9345955274073
+Walter Harley Recommendation  Score: 340.7475516401344
+Missing name Recommendation  Score: 301.9898725116289
+jules Recommendation  Score: 296.2129930205179
+Martin Oberhuber Recommendation  Score: 267.23839878621186
+Philipe Mulet Recommendation  Score: 231.92939044396348
+Francis Upton IV Recommendation  Score: 182.22273414085495
+Pawel Piech Recommendation  Score: 157.7301093410749
+Benjamin Muskalla Recommendation  Score: 147.3942483232966
+Andrew Niefer Recommendation  Score: 141.95204489192835
+Konstantin Komissarchik Recommendation  Score: 91.81688919576983
+DJ Houghton Recommendation  Score: 78.74210369047914
+Boris Bokowski Recommendation  Score: 75.94345838775062
+Stefan Kolarov Recommendation  Score: 45.10089691079544
+Martin Monperrus Recommendation  Score: 41.32539217094326
+Felipe Heidrich Recommendation  Score: 32.188384572433534
+Chris Goldthorpe Recommendation  Score: 32.14172341876481
+Jason Mirra Recommendation  Score: 27.336604421621878
+michael.t Recommendation  Score: 27.276478679501952
+Tobias Gierke Recommendation  Score: 17.364273204897774
+Lakshmi Shanmugam Recommendation  Score: 16.397167446951983
+Eric Moffatt Recommendation  Score: 14.184198444783624
+Liangliang Zhang Recommendation  Score: 11.92334905660635
+Marcin Kowalski Recommendation  Score: 10.521331945890296
+James Cornett Recommendation  Score: 8.015175718850644
+Martin Herbst Recommendation  Score: 7.1446453407508175
+Cameron Bateman Recommendation  Score: 6.742390303938399
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 0.6666666666666666
+GT is is : 3
+
+for bug 391016 .....................................................................Srikanth Sankaran Recommendation  Score: 104912.71459709847
+Jay Arthanareeswaran Recommendation  Score: 63128.10797124509
+Markus Keller Recommendation  Score: 19442.96074417588
+Dani Megert Recommendation  Score: 19370.539695538046
+Olivier Thomann Recommendation  Score: 15024.654871611237
+Ayushman Jain Recommendation  Score: 14868.39193621804
+Stephan Herrmann Recommendation  Score: 10731.525517576156
+Deepak Azad Recommendation  Score: 9452.099988950751
+Satyam Kandula Recommendation  Score: 9271.436005260892
+Frederic Fusier Recommendation  Score: 4542.817638183907
+Raksha Vasisht Recommendation  Score: 2592.162074480809
+Michael Rennie Recommendation  Score: 2065.3864169092267
+Andrey Loskutov Recommendation  Score: 1833.119663175754
+Francis Upton IV Recommendation  Score: 1748.7833150870194
+Remy Suen Recommendation  Score: 1538.966389656167
+Kent Johnson Recommendation  Score: 1396.405233588759
+John Arthorne Recommendation  Score: 1125.1846200257648
+David Williams Recommendation  Score: 1018.9918432847949
+Curtis Windatt Recommendation  Score: 1016.3503326636855
+David Audel Recommendation  Score: 949.7117413982552
+Tomasz Zarna Recommendation  Score: 743.2175867159258
+Darin Wright Recommendation  Score: 598.1979863441037
+Tom Hofmann Recommendation  Score: 351.93682690831633
+Kim Moir Recommendation  Score: 329.6050294379541
+Martin Oberhuber Recommendation  Score: 288.800837092401
+Walter Harley Recommendation  Score: 273.3417951248041
+Missing name Recommendation  Score: 233.48518797782933
+Philipe Mulet Recommendation  Score: 213.19761910311615
+jules Recommendation  Score: 154.89839911193891
+Benjamin Muskalla Recommendation  Score: 132.11243779446556
+Andrew Niefer Recommendation  Score: 120.11907669358297
+Pawel Piech Recommendation  Score: 114.67193200521186
+Konstantin Komissarchik Recommendation  Score: 80.63010525559922
+Boris Bokowski Recommendation  Score: 68.47090932054118
+DJ Houghton Recommendation  Score: 67.91639895411092
+Stefan Kolarov Recommendation  Score: 41.15636461599759
+Martin Monperrus Recommendation  Score: 37.131594605871804
+Felipe Heidrich Recommendation  Score: 29.371977176860593
+Chris Goldthorpe Recommendation  Score: 27.474103898652515
+Jason Mirra Recommendation  Score: 23.85074283081868
+michael.t Recommendation  Score: 23.83413461538889
+Tobias Gierke Recommendation  Score: 15.902165196477833
+Lakshmi Shanmugam Recommendation  Score: 14.31949921788113
+Eric Moffatt Recommendation  Score: 12.994717762561637
+Liangliang Zhang Recommendation  Score: 10.609653725079232
+Marcin Kowalski Recommendation  Score: 9.484990619135397
+James Cornett Recommendation  Score: 7.394988946203277
+Martin Herbst Recommendation  Score: 6.234223300971467
+Cameron Bateman Recommendation  Score: 5.920246977103632
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 0.6666666666666666
+GT is is : 3

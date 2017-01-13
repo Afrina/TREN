@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/jars/args4j-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/jars/joda-time-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/jars/commons-math3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/jars/lucene 5.5.1/lucene-5.5.1/queryparser/lucene-queryparser-5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/jars/lucene 5.5.1/lucene-5.5.1/analysis/common/lucene-analyzers-common-5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/jars/lucene 5.5.1/lucene-5.5.1/backward-codecs/lucene-backward-codecs-5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/jars/lucene 5.5.1/lucene-5.5.1/core/lucene-core-5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/jars/javaparser-1.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/MS_Thesis_Code/commons-lang3-3.5/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/afrin/Documents/Afrina/jars/json-simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

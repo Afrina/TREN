@@ -1,0 +1,46 @@
+Srikanth Sankaran Recommendation  Score: 51286.57925087823
+Ayushman Jain Recommendation  Score: 50939.40935394842
+Markus Keller Recommendation  Score: 47051.2693896284
+Satyam Kandula Recommendation  Score: 46950.47760974755
+Jay Arthanareeswaran Recommendation  Score: 40030.42347503813
+Dani Megert Recommendation  Score: 35943.73470194068
+Deepak Azad Recommendation  Score: 32884.50630544751
+Olivier Thomann Recommendation  Score: 23099.69246415424
+jules Recommendation  Score: 21005.25133056719
+Stephan Herrmann Recommendation  Score: 18263.194729451014
+Frederic Fusier Recommendation  Score: 5744.179579013206
+Raksha Vasisht Recommendation  Score: 4385.451467187248
+Michael Rennie Recommendation  Score: 3604.0145361115997
+Remy Suen Recommendation  Score: 2771.1829170210726
+Ferenc Hechler Recommendation  Score: 2666.876823795451
+Kent Johnson Recommendation  Score: 1662.8267749472793
+Paul Benedict Recommendation  Score: 1503.7545356903843
+David Audel Recommendation  Score: 1120.5000771025582
+Curtis Windatt Recommendation  Score: 969.6953056085081
+Darin Wright Recommendation  Score: 751.3918898785676
+Rajesh Recommendation  Score: 650.9629021158928
+Tomasz Zarna Recommendation  Score: 615.668698663615
+Kim Moir Recommendation  Score: 523.2048375223703
+Andrey Loskutov Recommendation  Score: 449.68856107599174
+Missing name Recommendation  Score: 437.0198978128806
+Manju Mathew Recommendation  Score: 407.4113073506404
+Walter Harley Recommendation  Score: 387.82110572951086
+Noopur Gupta Recommendation  Score: 295.9997536496661
+Szymon Brandys Recommendation  Score: 209.31115361898688
+Robert Konigsberg Recommendation  Score: 202.21417023407687
+Francis Upton IV Recommendation  Score: 150.73926449893142
+00jt Recommendation  Score: 62.764738335419786
+Lukas Diduch Recommendation  Score: 49.478260869557445
+Mittu Recommendation  Score: 43.44000000000603
+Chris Simmons Recommendation  Score: 35.23379719456145
+Carsten Pfeiffer Recommendation  Score: 30.433903442292163
+Stuart Schmukler Recommendation  Score: 29.09659090909323
+Jan Wloka Recommendation  Score: 26.37843648469736
+Xiang Qinxian Recommendation  Score: 22.955859302969607
+Matthias Reinhardt Recommendation  Score: 22.45291479820432
+Russ Tennant Recommendation  Score: 19.93569580015371
+Nicko Guyer Recommendation  Score: 13.41913746630443
+Jack Gold Recommendation  Score: 12.03525264394887
+Thorbjørn Ravn Andersen Recommendation  Score: 9.422263109476406
+Cameron Bateman Recommendation  Score: 7.839149420922762
+Channing Walton Recommendation  Score: 4.671721677074094

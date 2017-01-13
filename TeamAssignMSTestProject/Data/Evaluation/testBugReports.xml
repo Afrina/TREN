@@ -1,0 +1,42 @@
+<bugs> 
+<bug>
+        <id>262605</id>
+        <developer>David Audel</developer>
+        <developer_username>david_audel</developer_username>
+        <dup_id/>
+        <creation_time>2009-01-27 12:21:00 -0500</creation_time>
+        <product>JDT</product>
+        <component>Text</component>
+		<bug_severity>normal</bug_severity>
+        <short_desc>[content assist] ANONYMOUS_CLASS_DECLARATION proposal should support TYPE_REF as required proposals</short_desc>
+        <thetext>build I20090126-1300
+
+With the fix for bug 260717 ANONYMOUS_CLASS_DECLARATION proposals can have a TYPE_REF proposal as required proposals when a constructor is completed and the type is not imported
+
+package missing;
+public class MissingType {
+  public MissingType(int i) {}
+}
+
+package test;
+public class Test{
+  void foo() {
+    new MissingType(| // do ctrl+space at |
+  }
+}
+
+In this case a METHOD_REF and ANONYMOUS_CLASS_DECLARATION with a TYPE_REF as required proposal can be proposed but JDTText does not support that for ANONYMOUS_CLASS_DECLARATION. So only the METHOD_REF are displayed to the user.
+
+JDTText should add the support for ANONYMOUS_CLASS_DECLARATION.</thetext>
+        <comment>
+            <comment_id>1434360</comment_id>
+            <comment_count>1</comment_count>
+            <who>Dani Megert</who>
+            <commenter_username>daniel_megert</commenter_username>
+            <when>2009-02-20 10:16:20 -0500</when>
+            <comment_text>Fixed in HEAD.
+Available in build &gt; N20090219-2000.</comment_text>
+        </comment>
+    </bug>
+
+</bugs>

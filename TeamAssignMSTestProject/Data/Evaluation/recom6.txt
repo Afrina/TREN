@@ -1,0 +1,47 @@
+
+for bug 376724 .....................................................................Ayushman Jain Recommendation  Score: 50807.04861635874
+Dani Megert Recommendation  Score: 44569.30231906907
+Markus Keller Recommendation  Score: 39950.391313414744
+Srikanth Sankaran Recommendation  Score: 29783.753250761973
+Satyam Kandula Recommendation  Score: 27627.367367254406
+Olivier Thomann Recommendation  Score: 21132.341880867883
+Jay Arthanareeswaran Recommendation  Score: 20328.4095518729
+Deepak Azad Recommendation  Score: 19422.331362569952
+Frederic Fusier Recommendation  Score: 5127.199542762745
+Raksha Vasisht Recommendation  Score: 3752.6780073603773
+Michael Rennie Recommendation  Score: 3220.587958910403
+Remy Suen Recommendation  Score: 2273.9318559662634
+Kent Johnson Recommendation  Score: 1503.9237809094222
+Curtis Windatt Recommendation  Score: 841.112507282561
+Darin Wright Recommendation  Score: 684.2566729113951
+Rajesh Recommendation  Score: 588.3342768779237
+Jorn Hertsig Recommendation  Score: 441.1134774524513
+Manju Mathew Recommendation  Score: 439.20763047282304
+Jerome Lanneluc Recommendation  Score: 368.4968079547851
+Noopur Gupta Recommendation  Score: 307.71356429081465
+Aaron Digulla Recommendation  Score: 244.13505379357133
+Prakash Rangaraj Recommendation  Score: 240.44322399760588
+Tom Hofmann Recommendation  Score: 235.602254787161
+Mateusz Matela Recommendation  Score: 149.81994790152189
+Eclipse Genie Recommendation  Score: 109.62432063762807
+Konstantin Komissarchik Recommendation  Score: 94.23825787171218
+Kris De Volder Recommendation  Score: 69.83104907386024
+Ankur Sharma Recommendation  Score: 68.16152552377771
+Philippe Couton Recommendation  Score: 41.7489539749031
+Ulli Hafner Recommendation  Score: 37.751746852850985
+Felipe Heidrich Recommendation  Score: 33.438406147356325
+Vladimir Lifar Recommendation  Score: 27.565999213508814
+BoD Recommendation  Score: 23.3686224489754
+Dmitry Balzer Recommendation  Score: 22.901249999997308
+brunoconde Recommendation  Score: 18.320999999999366
+Robin Rosenberg Recommendation  Score: 18.102984037277945
+Kevin Barnes Recommendation  Score: 18.060715473443118
+Jeff Recommendation  Score: 17.417651600318273
+Andrej Zachar Recommendation  Score: 14.89253731343564
+salam ELIAS Recommendation  Score: 7.021526418786507
+Robert Kish Recommendation  Score: 2.1309385863267547
+
+top n is: 3
+Preccission is: 0.3
+Recall is : 1.0
+GT is is : 3

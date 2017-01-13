@@ -1,0 +1,333 @@
+
+for bug 393675 .....................................................................Jay Arthanareeswaran Recommendation  Score: 42903.1144345194
+Srikanth Sankaran Recommendation  Score: 28459.403359071974
+Markus Keller Recommendation  Score: 27825.738271609673
+Dani Megert Recommendation  Score: 25095.088631004663
+Stephan Herrmann Recommendation  Score: 14219.080994552547
+Olivier Thomann Recommendation  Score: 14011.18766252163
+Ayushman Jain Recommendation  Score: 13299.06478790538
+Deepak Azad Recommendation  Score: 8587.821228328208
+Satyam Kandula Recommendation  Score: 8428.998735899346
+Frederic Fusier Recommendation  Score: 4315.484827996552
+Raksha Vasisht Recommendation  Score: 2388.770839316872
+Michael Rennie Recommendation  Score: 1792.0120706578323
+Remy Suen Recommendation  Score: 1415.0462498324619
+Kent Johnson Recommendation  Score: 1337.4847596918212
+David Audel Recommendation  Score: 910.8111294033125
+Curtis Windatt Recommendation  Score: 820.553062115146
+Tomasz Zarna Recommendation  Score: 685.5915989127863
+Darin Wright Recommendation  Score: 543.0734752276629
+Tom Hofmann Recommendation  Score: 506.9699983708026
+Walter Harley Recommendation  Score: 255.68353215618055
+Philipe Mulet Recommendation  Score: 204.4903383171359
+Robert Munteanu Recommendation  Score: 129.55306531010112
+Benjamin Muskalla Recommendation  Score: 125.18520333508698
+Szymon Brandys Recommendation  Score: 124.5637160278373
+Johannes Rieken Recommendation  Score: 53.56781199050537
+pesckal Recommendation  Score: 52.36305858986585
+Stefan Kolarov Recommendation  Score: 39.42364751005219
+Felipe Heidrich Recommendation  Score: 27.949449653364596
+Dietrich M. Recommendation  Score: 26.861518811312408
+Peter Becker Recommendation  Score: 24.286297713733944
+Matthew Hall Recommendation  Score: 14.697656708798348
+Jan Koehnlein Recommendation  Score: 13.497931034480155
+Stan Recommendation  Score: 10.279411764706587
+Guven Demir Recommendation  Score: 9.528724440117063
+Dmitry Geraskov Recommendation  Score: 9.154349859680716
+Philippe Maseres Recommendation  Score: 7.122317596567896
+Lóránt Pintér Recommendation  Score: 5.707289293849448
+Daniel Recommendation  Score: 4.353605560381917
+Michael Dillon Recommendation  Score: 2.0025062656641217
+Etienne Lacombe Recommendation  Score: 1.4708777686628642
+Bogdan Gheorghe Recommendation  Score: 1.4252782193958635
+
+top n is: 3
+Preccission is: 0.1
+Recall is : 0.5
+GT is is : 2
+
+for bug 380313 .....................................................................Dani Megert Recommendation  Score: 65525.010938241096
+Ayushman Jain Recommendation  Score: 48140.4947790528
+Markus Keller Recommendation  Score: 39848.52921183526
+Srikanth Sankaran Recommendation  Score: 31125.93692228917
+Jay Arthanareeswaran Recommendation  Score: 24487.82435701435
+Deepak Azad Recommendation  Score: 23651.72832876829
+Stephan Herrmann Recommendation  Score: 20804.276768770775
+Olivier Thomann Recommendation  Score: 20713.0187411646
+Satyam Kandula Recommendation  Score: 19137.773323662368
+Michael Rennie Recommendation  Score: 7964.704146135117
+Frederic Fusier Recommendation  Score: 5199.666109602787
+Raksha Vasisht Recommendation  Score: 3364.7253457255797
+Remy Suen Recommendation  Score: 2058.0917358655856
+Kent Johnson Recommendation  Score: 1547.11636293501
+David Audel Recommendation  Score: 1046.266253382357
+Tomasz Zarna Recommendation  Score: 958.8097968411234
+Curtis Windatt Recommendation  Score: 807.5622855047069
+Darin Wright Recommendation  Score: 656.2319052660908
+Walter Harley Recommendation  Score: 337.34588904316666
+Tom Hofmann Recommendation  Score: 274.8040129218577
+Philipe Mulet Recommendation  Score: 233.89077195194483
+Szymon Brandys Recommendation  Score: 165.42050636383303
+Benjamin Muskalla Recommendation  Score: 149.135618012693
+Robert Munteanu Recommendation  Score: 97.95746683765752
+Johannes Rieken Recommendation  Score: 68.56310734535423
+pesckal Recommendation  Score: 67.673782587329
+Stefan Kolarov Recommendation  Score: 45.631509194179024
+Dietrich M. Recommendation  Score: 34.92705085612725
+Felipe Heidrich Recommendation  Score: 32.33557804281096
+Peter Becker Recommendation  Score: 28.185567151922776
+Jan Koehnlein Recommendation  Score: 17.537634408605587
+Matthew Hall Recommendation  Score: 16.816160808191487
+Stan Recommendation  Score: 12.48214285714114
+Guven Demir Recommendation  Score: 11.379069767443669
+Dmitry Geraskov Recommendation  Score: 10.86126526081917
+Philippe Maseres Recommendation  Score: 8.095121951220458
+Lóránt Pintér Recommendation  Score: 7.04781997186987
+Daniel Recommendation  Score: 5.097660223805135
+Michael Dillon Recommendation  Score: 2.536507936507928
+Etienne Lacombe Recommendation  Score: 1.704372623574104
+Bogdan Gheorghe Recommendation  Score: 1.6434463794684357
+
+top n is: 2
+Preccission is: 0.5
+Recall is : 0.7142857142857143
+GT is is : 7
+
+for bug 368152 .....................................................................Dani Megert Recommendation  Score: 125198.12163557991
+Ayushman Jain Recommendation  Score: 91833.91221310056
+Srikanth Sankaran Recommendation  Score: 80308.3835935811
+Markus Keller Recommendation  Score: 66027.75688160783
+Satyam Kandula Recommendation  Score: 54681.69596822539
+Stephan Herrmann Recommendation  Score: 51674.06900022799
+Jay Arthanareeswaran Recommendation  Score: 44485.00735056517
+Deepak Azad Recommendation  Score: 39426.65272729202
+Olivier Thomann Recommendation  Score: 30003.035347889647
+Frederic Fusier Recommendation  Score: 6256.997846813287
+Remy Suen Recommendation  Score: 5904.464213173478
+Raksha Vasisht Recommendation  Score: 5784.962775602115
+Michael Rennie Recommendation  Score: 3169.7743060601315
+Kent Johnson Recommendation  Score: 1770.8848505845997
+Curtis Windatt Recommendation  Score: 1284.5398073199228
+David Audel Recommendation  Score: 1187.9462160978771
+Darin Wright Recommendation  Score: 891.8652470855844
+Tomasz Zarna Recommendation  Score: 535.8442142301615
+Walter Harley Recommendation  Score: 450.95796278858666
+Szymon Brandys Recommendation  Score: 268.9989051308093
+Philipe Mulet Recommendation  Score: 264.42844040335405
+Tom Hofmann Recommendation  Score: 240.58013284647973
+Benjamin Muskalla Recommendation  Score: 176.64248318270594
+Robert Munteanu Recommendation  Score: 113.62472994278801
+Johannes Rieken Recommendation  Score: 88.7540825479276
+pesckal Recommendation  Score: 88.34497933668462
+Stefan Kolarov Recommendation  Score: 52.22368500074436
+Dietrich M. Recommendation  Score: 45.9261861364257
+Felipe Heidrich Recommendation  Score: 36.984078441187634
+Peter Becker Recommendation  Score: 32.325183002890036
+Jan Koehnlein Recommendation  Score: 23.134751773047388
+Matthew Hall Recommendation  Score: 19.02658569308675
+Stan Recommendation  Score: 15.078582434511798
+Guven Demir Recommendation  Score: 13.497931034480148
+Dmitry Geraskov Recommendation  Score: 12.758800521514505
+Philippe Maseres Recommendation  Score: 9.084854014597196
+Lóránt Pintér Recommendation  Score: 8.699652777776809
+Daniel Recommendation  Score: 5.9022379269729495
+Michael Dillon Recommendation  Score: 3.2217741935483373
+Etienne Lacombe Recommendation  Score: 1.955288985823317
+Bogdan Gheorghe Recommendation  Score: 1.8755230125522828
+
+top n is: 1
+Preccission is: 0.6
+Recall is : 0.75
+GT is is : 8
+
+for bug 376440 .....................................................................Satyam Kandula Recommendation  Score: 48367.86804011917
+Ayushman Jain Recommendation  Score: 41858.5867706404
+Dani Megert Recommendation  Score: 41100.537509857175
+Markus Keller Recommendation  Score: 35684.11701233695
+Srikanth Sankaran Recommendation  Score: 32371.08891115967
+Deepak Azad Recommendation  Score: 24385.33238507785
+Jay Arthanareeswaran Recommendation  Score: 23716.629018193686
+Olivier Thomann Recommendation  Score: 22432.240697742356
+Stephan Herrmann Recommendation  Score: 13525.737956947718
+Frederic Fusier Recommendation  Score: 5485.4830200028555
+Michael Rennie Recommendation  Score: 5039.7505292913365
+Raksha Vasisht Recommendation  Score: 3793.7180766679976
+Remy Suen Recommendation  Score: 2371.9892780135992
+Kent Johnson Recommendation  Score: 1610.1891965109833
+David Audel Recommendation  Score: 1086.7244192236117
+Curtis Windatt Recommendation  Score: 870.6766569615928
+Darin Wright Recommendation  Score: 695.4721055068478
+Tomasz Zarna Recommendation  Score: 651.7674830355661
+Walter Harley Recommendation  Score: 361.7798972413534
+Philipe Mulet Recommendation  Score: 242.6344408423635
+Tom Hofmann Recommendation  Score: 238.61775217395962
+Szymon Brandys Recommendation  Score: 183.29719142141974
+Benjamin Muskalla Recommendation  Score: 156.67182646608325
+Robert Munteanu Recommendation  Score: 100.71464380606761
+Johannes Rieken Recommendation  Score: 73.7008174032044
+pesckal Recommendation  Score: 73.02164664277328
+Stefan Kolarov Recommendation  Score: 47.50426224073642
+Dietrich M. Recommendation  Score: 37.76166329358887
+Felipe Heidrich Recommendation  Score: 33.65386979263513
+Peter Becker Recommendation  Score: 29.364207305616624
+Jan Koehnlein Recommendation  Score: 18.965116279066386
+Matthew Hall Recommendation  Score: 17.44674473187604
+Stan Recommendation  Score: 13.18867924528033
+Guven Demir Recommendation  Score: 11.96332518337232
+Dmitry Geraskov Recommendation  Score: 11.392316647265075
+Philippe Maseres Recommendation  Score: 8.38131313131336
+Lóránt Pintér Recommendation  Score: 7.4902840059794045
+Daniel Recommendation  Score: 5.325185972370125
+Michael Dillon Recommendation  Score: 2.717687074829974
+Etienne Lacombe Recommendation  Score: 1.7752475247524766
+Bogdan Gheorghe Recommendation  Score: 1.7092469018112102
+
+top n is: 1
+Preccission is: 0.3
+Recall is : 0.5
+GT is is : 6
+
+for bug 396000 .....................................................................Srikanth Sankaran Recommendation  Score: 43112.706917173324
+Jay Arthanareeswaran Recommendation  Score: 40490.58693937873
+Stephan Herrmann Recommendation  Score: 37483.645541567596
+Dani Megert Recommendation  Score: 31273.642840621353
+Markus Keller Recommendation  Score: 19921.98274778642
+Olivier Thomann Recommendation  Score: 13441.53856822631
+Ayushman Jain Recommendation  Score: 12384.040602112245
+Tom Hofmann Recommendation  Score: 10096.847922884066
+Satyam Kandula Recommendation  Score: 7922.047893035875
+Deepak Azad Recommendation  Score: 6672.714415403143
+Frederic Fusier Recommendation  Score: 4188.016707046681
+Tomasz Zarna Recommendation  Score: 2923.2508538157085
+Raksha Vasisht Recommendation  Score: 2276.6188599268494
+Remy Suen Recommendation  Score: 1344.7243629090553
+Michael Rennie Recommendation  Score: 1321.3856120030277
+Kent Johnson Recommendation  Score: 1305.0004616538222
+Curtis Windatt Recommendation  Score: 1192.6657810742097
+David Audel Recommendation  Score: 890.095802032101
+Darin Wright Recommendation  Score: 526.9648042465351
+Walter Harley Recommendation  Score: 245.10375689668408
+Philipe Mulet Recommendation  Score: 199.9463177955286
+Benjamin Muskalla Recommendation  Score: 121.67340832727419
+Szymon Brandys Recommendation  Score: 119.7314110194131
+Robert Munteanu Recommendation  Score: 95.24802550362483
+Johannes Rieken Recommendation  Score: 51.522104336328695
+pesckal Recommendation  Score: 50.332114597516835
+Stefan Kolarov Recommendation  Score: 38.47850333758213
+Felipe Heidrich Recommendation  Score: 27.277392090120028
+Dietrich M. Recommendation  Score: 25.79770863322039
+Peter Becker Recommendation  Score: 23.700792798613822
+Matthew Hall Recommendation  Score: 14.368014464168796
+Jan Koehnlein Recommendation  Score: 12.944444444446214
+Stan Recommendation  Score: 9.965376782077072
+Guven Demir Recommendation  Score: 9.249527410207458
+Dmitry Geraskov Recommendation  Score: 8.904458598726483
+Philippe Maseres Recommendation  Score: 6.972689075630228
+Lóránt Pintér Recommendation  Score: 5.512651265127108
+Daniel Recommendation  Score: 4.243014394580684
+Michael Dillon Recommendation  Score: 1.9299516908212642
+Etienne Lacombe Recommendation  Score: 1.4343999999999733
+Bogdan Gheorghe Recommendation  Score: 1.3910007757951903
+
+top n is: 2
+Preccission is: 0.2
+Recall is : 0.4
+GT is is : 5
+
+for bug 393356 .....................................................................Jay Arthanareeswaran Recommendation  Score: 34237.65885685757
+Srikanth Sankaran Recommendation  Score: 30712.17462906421
+Markus Keller Recommendation  Score: 22522.08404337697
+Dani Megert Recommendation  Score: 21840.15889412975
+Olivier Thomann Recommendation  Score: 14106.456761455796
+Ayushman Jain Recommendation  Score: 13466.652745895011
+Stephan Herrmann Recommendation  Score: 10732.277741463764
+Deepak Azad Recommendation  Score: 10568.06139313525
+Satyam Kandula Recommendation  Score: 8520.416817300063
+Frederic Fusier Recommendation  Score: 4336.276475673532
+Michael Rennie Recommendation  Score: 3661.581412913055
+Raksha Vasisht Recommendation  Score: 2408.4636700557385
+Remy Suen Recommendation  Score: 1427.0205221114043
+Kent Johnson Recommendation  Score: 1342.552851009605
+David Audel Recommendation  Score: 914.2259120276003
+Curtis Windatt Recommendation  Score: 847.8655044994895
+Tomasz Zarna Recommendation  Score: 672.1506420387493
+Darin Wright Recommendation  Score: 545.6946236580279
+Tom Hofmann Recommendation  Score: 459.0775853275391
+Walter Harley Recommendation  Score: 257.5184354308082
+Philipe Mulet Recommendation  Score: 205.22086804851662
+Robert Munteanu Recommendation  Score: 142.82678005896796
+Benjamin Muskalla Recommendation  Score: 125.77513521382144
+Szymon Brandys Recommendation  Score: 125.38381825119099
+Johannes Rieken Recommendation  Score: 53.917194816428726
+pesckal Recommendation  Score: 52.71765260600699
+Stefan Kolarov Recommendation  Score: 39.58377072693932
+Felipe Heidrich Recommendation  Score: 28.05984305635703
+Dietrich M. Recommendation  Score: 27.04740941674334
+Peter Becker Recommendation  Score: 24.386706029405918
+Matthew Hall Recommendation  Score: 14.747530846262169
+Jan Koehnlein Recommendation  Score: 13.57281553398363
+Stan Recommendation  Score: 10.333685322071533
+Guven Demir Recommendation  Score: 9.570550527687423
+Dmitry Geraskov Recommendation  Score: 9.197368421052062
+Philippe Maseres Recommendation  Score: 7.147882268486593
+Lóránt Pintér Recommendation  Score: 5.733409610983547
+Daniel Recommendation  Score: 4.372600349039926
+Michael Dillon Recommendation  Score: 2.01513240857507
+Etienne Lacombe Recommendation  Score: 1.476935749588183
+Bogdan Gheorghe Recommendation  Score: 1.4298245614035408
+
+top n is: 1
+Preccission is: 0.2
+Recall is : 0.5
+GT is is : 4
+
+for bug 388042 .....................................................................Jay Arthanareeswaran Recommendation  Score: 33064.17262286507
+Srikanth Sankaran Recommendation  Score: 30785.465335639918
+Dani Megert Recommendation  Score: 21852.11249487278
+Markus Keller Recommendation  Score: 19525.40153216434
+Ayushman Jain Recommendation  Score: 17012.614241347383
+Olivier Thomann Recommendation  Score: 15723.691782531667
+Satyam Kandula Recommendation  Score: 10162.898345736028
+Stephan Herrmann Recommendation  Score: 9258.964115886762
+Deepak Azad Recommendation  Score: 8985.650224375733
+Frederic Fusier Recommendation  Score: 4661.676981675086
+Raksha Vasisht Recommendation  Score: 2725.91914351348
+Michael Rennie Recommendation  Score: 1902.2251999803918
+Remy Suen Recommendation  Score: 1627.5573855083749
+Kent Johnson Recommendation  Score: 1421.6795810616495
+Tomasz Zarna Recommendation  Score: 1179.0105760204497
+David Audel Recommendation  Score: 965.80817939146
+Curtis Windatt Recommendation  Score: 787.9611238943993
+Darin Wright Recommendation  Score: 586.6892334388989
+Tom Hofmann Recommendation  Score: 360.2875994505677
+Walter Harley Recommendation  Score: 288.56934442339195
+Philipe Mulet Recommendation  Score: 216.43397003501175
+Szymon Brandys Recommendation  Score: 138.8284417873431
+Benjamin Muskalla Recommendation  Score: 134.56841517825268
+Robert Munteanu Recommendation  Score: 115.97497052343478
+Johannes Rieken Recommendation  Score: 59.20428115966804
+pesckal Recommendation  Score: 58.15452394552825
+Stefan Kolarov Recommendation  Score: 41.9220240944532
+Dietrich M. Recommendation  Score: 29.903180334470186
+Felipe Heidrich Recommendation  Score: 29.713409717927583
+Peter Becker Recommendation  Score: 25.85482283463719
+Matthew Hall Recommendation  Score: 15.557672022075328
+Jan Koehnlein Recommendation  Score: 15.009202453986779
+Stan Recommendation  Score: 11.145785876992688
+Guven Demir Recommendation  Score: 10.257861635219783
+Dmitry Geraskov Recommendation  Score: 9.835175879397108
+Philippe Maseres Recommendation  Score: 7.520392749244918
+Lóránt Pintér Recommendation  Score: 6.224844720496257
+Daniel Recommendation  Score: 4.6527390900649905
+Michael Dillon Recommendation  Score: 2.2071823204420196
+Etienne Lacombe Recommendation  Score: 1.564572425829028
+Bogdan Gheorghe Recommendation  Score: 1.5130801687764046
+
+top n is: 3
+Preccission is: 0.3
+Recall is : 0.6
+GT is is : 5
+
+
+
+here recall found 7 : 
